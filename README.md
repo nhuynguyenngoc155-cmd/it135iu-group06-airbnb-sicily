@@ -1,4 +1,5 @@
 # it135iu-group06-airbnb-sicily
+
 Data Science project - Airbnb Sicily
 
 ## Project Topic
@@ -14,7 +15,25 @@ The project uses the Sicily Airbnb Listings Dataset and review data from Inside 
 - `listings.csv` - detailed Airbnb listing information.
 - `reviews.csv` - review data used to create review summaries.
 
-The data files are not included in this repository because Inside Airbnb does not allow redistribution.
+The data files are not included in this repository in accordance with Inside Airbnb's data policy.
+
+## License and Data Policy
+
+The Airbnb data used in this project is provided by Inside Airbnb and is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+
+According to the Inside Airbnb Data Policies:
+
+- The data should be appropriately attributed and cited.
+- The data should not be republished.
+- Only the data needed for the project should be used.
+- Data should be downloaded once rather than repeatedly when running analysis scripts.
+
+For more information, please refer to:
+
+- Inside Airbnb - Get the Data: https://insideairbnb.com/get-the-data/
+- Inside Airbnb - Data Policies: https://insideairbnb.com/data-policies/
+- Inside Airbnb - Data Requests: https://insideairbnb.com/data-requests/
+- Creative Commons - CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
 ## Project Notebook
 
@@ -49,8 +68,6 @@ To install the required libraries:
 ```bash
 pip install -r requirements.txt
 ```
-
-## Reproducibility
 
 ## Reproducibility
 
