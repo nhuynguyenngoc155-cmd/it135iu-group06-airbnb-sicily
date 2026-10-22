@@ -52,4 +52,6 @@ pip install -r requirements.txt
 
 ## Reproducibility
 
-A random seed is used when random operations are performed to make the results reproducible.
+## Reproducibility
+
+A random seed of 42 is used to make the results reproducible.
