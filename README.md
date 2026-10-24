@@ -113,3 +113,20 @@ A random seed of 42 is used to make the results reproducible.
 - Inside Airbnb. (n.d.). Data Policies. https://insideairbnb.com/data-policies/
 - Inside Airbnb. (n.d.). Data Requests. https://insideairbnb.com/data-requests/
 - Creative Commons. (n.d.). Attribution 4.0 International (CC BY 4.0). https://creativecommons.org/licenses/by/4.0/
+
+
+Filtering, group-by, aggregation (Trần Duy Tân)
+Files
+notebooks/03_filtering_groupby_aggregation.ipynb   <- the deliverable (already executed, outputs visible on GitHub)
+outputs/tables/*.csv                                <- every result table (F0-F7 filters, G1-G7 group-by)
+data/raw/Sicily.csv                                 <- NOT committed (large); put your copy here to run the notebook
+​
+Run
+Put Sicily.csv in data/raw/.
+Open the notebook from the notebooks/ folder and choose Run All. It rebuilds df_clean from the raw file and stops if any number differs from the cleaning log (51,864 rows; flags 40 / 14 / 669).
+Tables are rewritten into outputs/tables/.
+Requires: python 3.10+, pandas, numpy.
+Suggested .gitignore
+data/raw/
+.ipynb_checkpoints/
+__pycache__/
