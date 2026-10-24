@@ -1,0 +1,334 @@
+id,neighbourhood_cleansed,property_type,room_type,accommodates,bedrooms,amenities_count,peer_median_amenities,number_of_reviews,review_scores_rating,price,price_per_guest
+557129,Altavilla Milicia,Private room in villa,Private room,1,,2,,0,,254.45,254.45
+1799030,Palermo,Entire condo,Entire home/apt,4,1.0,26,33.0,0,,1177.0,294.25
+5157745,San Vito Lo Capo,Entire home,Entire home/apt,4,1.0,3,33.0,0,,1550.45,387.61
+6511515,Augusta,Room in boutique hotel,Private room,16,10.0,18,19.0,0,,3500.0,218.75
+10757903,Siracusa,Entire rental unit,Entire home/apt,6,3.0,6,38.0,0,,2552.06,425.34
+17967093,Trapani,Entire serviced apartment,Entire home/apt,2,1.0,35,33.0,0,,595.33,297.67
+19918585,Noto,Entire home,Entire home/apt,6,3.0,10,38.0,0,,1092.5,182.08
+20731596,Viagrande,Entire villa,Entire home/apt,8,4.0,20,37.0,0,,1367.0,170.88
+22111006,Ragusa,Room in boutique hotel,Private room,2,1.0,40,22.0,0,,473.0,236.5
+28367413,Siracusa,Entire townhouse,Entire home/apt,4,2.0,33,35.0,0,,699.0,174.75
+28913980,Scicli,Entire rental unit,Entire home/apt,1,,3,,0,,442.48,442.48
+28760976,Catania,Boat,Entire home/apt,6,3.0,9,38.0,0,,1006.29,167.72
+29425442,Siracusa,Entire villa,Entire home/apt,3,2.0,26,35.0,0,,680.71,226.9
+29842301,Messina,Room in serviced apartment,Hotel room,1,15.0,27,27.0,0,,172.0,172.0
+30519057,Acireale,Entire home,Entire home/apt,16,4.0,21,37.0,0,,2835.06,177.19
+31947840,Trapani,Entire serviced apartment,Entire home/apt,2,1.0,35,33.0,0,,595.33,297.67
+32353682,Letojanni,Entire villa,Entire home/apt,14,7.0,32,37.0,0,,4664.0,333.14
+32711969,Zafferana Etnea,Entire villa,Entire home/apt,5,3.0,26,38.0,0,,942.0,188.4
+33059563,Messina,Room in hotel,Hotel room,2,10.0,13,27.0,0,,387.6,193.8
+34223585,Favignana,Room in bed and breakfast,Hotel room,2,,18,,0,,336.0,168.0
+34920103,Castellammare del Golfo,Entire rental unit,Entire home/apt,2,,30,,0,,327.0,163.5
+35786245,Aci Castello,Entire home,Entire home/apt,4,1.0,18,33.0,0,,884.97,221.24
+37106475,Siracusa,Entire villa,Entire home/apt,3,2.0,26,35.0,0,,663.0,221.0
+38899237,Cefal,Entire villa,Entire home/apt,5,2.0,29,35.0,0,,936.0,187.2
+39895092,Noto,Entire villa,Entire home/apt,9,5.0,18,37.0,0,,1481.7,164.63
+42992336,Pantelleria,Entire serviced apartment,Entire home/apt,2,1.0,11,33.0,0,,360.0,180.0
+42704148,Siracusa,Entire villa,Entire home/apt,8,4.0,17,37.0,0,,2226.03,278.25
+43427287,Siracusa,Entire villa,Entire home/apt,16,7.0,22,37.0,0,,3050.0,190.62
+48218488,Taormina,Entire rental unit,Entire home/apt,3,1.0,37,33.0,0,,600.0,200.0
+49038509,Trapani,Entire rental unit,Entire home/apt,4,2.0,66,35.0,0,,731.0,182.75
+50224980,Cefal,Entire villa,Entire home/apt,6,3.0,31,38.0,0,,1067.0,177.83
+51005084,Messina,Entire serviced apartment,Entire home/apt,1,1.0,10,33.0,0,,290.0,290.0
+51656702,Castellammare del Golfo,Entire rental unit,Entire home/apt,2,1.0,31,33.0,0,,327.0,163.5
+52250690,Modica,Entire home,Entire home/apt,4,2.0,44,35.0,0,,88494.55,22123.64
+54153805,Noto,Entire villa,Entire home/apt,9,5.0,40,37.0,0,,1583.2,175.91
+542668580169996763,Taormina,Entire villa,Entire home/apt,12,5.0,23,37.0,0,,5350.0,445.83
+556430333601895561,Siracusa,Entire condo,Entire home/apt,2,1.0,58,33.0,0,,399.67,199.84
+562265338721025664,Bompensiere,Entire home,Entire home/apt,11,5.0,29,37.0,0,,2424.8,220.44
+578674701673756194,Capo d'Orlando,Boat,Entire home/apt,8,4.0,9,37.0,0,,1790.29,223.79
+573766323980646325,Cefal,Entire condo,Entire home/apt,2,1.0,47,33.0,0,,331.87,165.94
+589531508725371349,Pantelleria,Entire villa,Entire home/apt,4,2.0,21,35.0,0,,1473.77,368.44
+612765669782210986,Partinico,Entire home,Entire home/apt,8,3.0,29,38.0,0,,1652.0,206.5
+625738180084733496,Castellammare del Golfo,Entire rental unit,Entire home/apt,4,2.0,27,35.0,0,,800.0,200.0
+634797058621563429,Marsala,Private room in bed and breakfast,Private room,1,,20,,0,,272.73,272.73
+638488340331054709,Taormina,Entire serviced apartment,Entire home/apt,2,1.0,31,33.0,0,,337.5,168.75
+645676625941812753,Ragusa,Private room in condo,Private room,2,,30,,0,,343.0,171.5
+649895752801755150,Palermo,Entire condo,Entire home/apt,4,2.0,36,35.0,0,,995.58,248.9
+653736698688293335,Erice,Private room in condo,Private room,4,2.0,22,22.0,0,,1102.59,275.65
+654262725793939231,Alcamo,Private room in home,Private room,2,,12,,0,,494.67,247.34
+670700929952618869,Marsala,Entire villa,Entire home/apt,14,6.0,28,37.0,0,,6170.0,440.71
+670728252834255302,Marsala,Entire villa,Entire home/apt,10,4.0,30,37.0,0,,6074.0,607.4
+671443468462082254,Marsala,Entire villa,Entire home/apt,10,4.0,30,37.0,0,,5200.0,520.0
+676746739916682084,Erice,Private room in condo,Private room,3,,21,,0,,1036.19,345.4
+685476744273080379,Noto,Private room in vacation home,Private room,2,,32,,0,,554.9,277.45
+691997246375903817,Ragusa,Entire villa,Entire home/apt,5,3.0,1,38.0,0,,2260.61,452.12
+691156154170680015,Noto,Entire villa,Entire home/apt,5,2.0,68,35.0,0,,1297.94,259.59
+714303681164293331,Catania,Entire condo,Entire home/apt,4,1.0,18,33.0,0,,663.68,165.92
+716532718044582988,Avola,Entire vacation home,Entire home/apt,1,2.0,8,35.0,0,,331.87,331.87
+741756516026173639,Taormina,Entire villa,Entire home/apt,12,6.0,8,37.0,0,,5869.68,489.14
+743851759042728418,Catania,Entire condo,Entire home/apt,2,1.0,31,33.0,0,,474.96,237.48
+756951937581083046,Siracusa,Entire villa,Entire home/apt,12,6.0,19,37.0,0,,2671.0,222.58
+760534816744655776,Polizzi Generosa,Farm stay,Entire home/apt,16,21.0,58,37.0,0,,5117.67,319.85
+786299260489521934,Favignana,Room in hotel,Private room,2,1.0,35,22.0,0,,500.0,250.0
+817827124711797246,Cefal,Private room in bed and breakfast,Private room,2,,38,,0,,1800.0,900.0
+817855659584077746,Cinisi,Entire villa,Entire home/apt,4,2.0,28,35.0,0,,679.57,169.89
+821658504714453860,Ragusa,Entire home,Entire home/apt,4,2.0,24,35.0,0,,911.0,227.75
+823851890735056903,San Vito Lo Capo,Room in hotel,Private room,1,1.0,27,22.0,0,,61160.55,61160.55
+834472626194574450,Scicli,Entire rental unit,Entire home/apt,4,2.0,25,35.0,0,,661.5,165.38
+832349419379828688,Trapani,Entire rental unit,Entire home/apt,2,1.0,38,33.0,0,,449.0,224.5
+840316070442923626,Pollina,Entire vacation home,Entire home/apt,5,2.0,98,35.0,0,,1311.44,262.29
+861323195044055714,Savoca,Entire villa,Entire home/apt,10,5.0,35,37.0,0,,1974.0,197.4
+878119666679398002,Castellammare del Golfo,Entire villa,Entire home/apt,9,4.0,52,37.0,0,,1605.86,178.43
+884547926093084846,Cefal,Room in hotel,Private room,2,1.0,37,22.0,0,,452.0,226.0
+895668303691301480,Siracusa,Entire home,Entire home/apt,2,1.0,9,33.0,0,,496.83,248.42
+899919656325260352,Marsala,Entire villa,Entire home/apt,16,10.0,23,37.0,0,,4500.0,281.25
+901581937891897131,Taormina,Entire rental unit,Entire home/apt,2,1.0,17,33.0,0,,333.0,166.5
+907982381609077507,Castellammare del Golfo,Entire rental unit,Entire home/apt,4,1.0,28,33.0,0,,701.0,175.25
+923174838257111881,Portopalo di Capo Passero,Entire rental unit,Entire home/apt,2,1.0,43,33.0,0,,335.68,167.84
+925975357778837206,Noto,Entire home,Entire home/apt,4,2.0,44,35.0,0,,1486.5,371.62
+932325268797582398,Noto,Entire villa,Entire home/apt,16,7.0,30,37.0,0,,3575.16,223.45
+930598030535216768,Capo d'Orlando,Entire condo,Entire home/apt,5,2.0,39,35.0,0,,16560.67,3312.13
+948383723553897821,Taormina,Private room in bed and breakfast,Private room,2,1.0,37,22.0,0,,490.0,245.0
+948456757484644719,Taormina,Private room in bed and breakfast,Private room,2,1.0,33,22.0,0,,377.91,188.96
+956465233205829893,Pantelleria,Dammuso,Entire home/apt,2,1.0,3,33.0,0,,393.45,196.72
+970758901859893745,Palermo,Private room in rental unit,Private room,3,,63,,0,,2033.6,677.87
+979482521615169453,Noto,Entire home,Entire home/apt,2,1.0,15,33.0,0,,334.0,167.0
+993523565001412616,Aci Castello,Private room in bed and breakfast,Private room,14,7.0,4,19.0,0,,10294.06,735.29
+990335995830668964,Valderice,Entire villa,Entire home/apt,6,3.0,57,38.0,0,,1103.86,183.98
+1003500558652301851,Ragusa,Private room in home,Private room,2,1.0,63,22.0,0,,553.1,276.55
+1009839426235362226,Santa Marina Salina,Room in hotel,Private room,2,1.0,10,22.0,0,,368.0,184.0
+1009853533164902507,Santa Marina Salina,Room in hotel,Private room,4,2.0,9,22.0,0,,720.0,180.0
+1009864259658837844,Santa Marina Salina,Room in hotel,Private room,2,1.0,8,22.0,0,,640.0,320.0
+1007095624999772201,Ragusa,Private room in home,Private room,2,,56,,0,,553.1,276.55
+1036749065421812428,Bagheria,Entire rental unit,Entire home/apt,4,1.0,48,33.0,0,,3200.0,800.0
+1039046843807570796,Terrasini,Entire vacation home,Entire home/apt,4,2.0,48,35.0,0,,701.0,175.25
+1070119462288910907,Menfi,Entire villa,Entire home/apt,12,6.0,43,37.0,0,,4050.0,337.5
+1074746643490324177,Palermo,Private room in bed and breakfast,Private room,3,,52,,0,,1356.78,452.26
+1077500073808543903,Castiglione di Sicilia,Entire home,Entire home/apt,6,3.0,15,38.0,0,,1061.93,176.99
+1078935033222482020,Marsala,Entire villa,Entire home/apt,12,4.0,83,37.0,0,,3523.63,293.64
+1092742657281562684,Pantelleria,Dammuso,Entire home/apt,4,2.0,71,35.0,0,,1388.14,347.04
+1095420188138298131,Alcamo,Entire rental unit,Entire home/apt,2,1.0,18,33.0,0,,331.0,165.5
+1099259208779105399,Palazzolo Acreide,Dammuso,Entire home/apt,4,1.0,16,33.0,0,,685.0,171.25
+1097806152257844662,Lipari,Entire home,Entire home/apt,2,1.0,33,33.0,0,,438.0,219.0
+1101224188926151291,Siracusa,Entire villa,Entire home/apt,8,4.0,32,37.0,0,,2332.0,291.5
+1107075942995560234,Catania,Entire home,Entire home/apt,1,1.0,0,33.0,0,,464.61,464.61
+1111657263416400295,Marsala,Entire rental unit,Entire home/apt,4,2.0,30,35.0,0,,5988.0,1497.0
+1114554795200790704,Alcamo,Entire villa,Entire home/apt,8,3.0,25,38.0,0,,1755.0,219.38
+1131556408245328928,Termini Imerese,Entire villa,Entire home/apt,8,3.0,38,38.0,0,,2149.0,268.62
+1136158335610210504,Castiglione di Sicilia,Entire villa,Entire home/apt,14,7.0,43,37.0,0,,4018.0,287.0
+1137725757330038572,Pantelleria,Boat,Entire home/apt,12,2.0,36,35.0,0,,2261.0,188.42
+1140338645723292034,Taormina,Private room in bed and breakfast,Private room,2,,38,,0,,344.0,172.0
+1142812638954877928,Campofelice di Roccella,Entire villa,Entire home/apt,9,3.0,12,38.0,0,,5631.77,625.75
+1150581007311258077,Pantelleria,Dammuso,Entire home/apt,2,1.0,11,33.0,0,,442.48,221.24
+1157736235127044250,Milazzo,Private room in boat,Private room,2,3.0,3,24.0,0,,463.0,231.5
+1165161513532233930,Palermo,Private room in villa,Private room,6,2.0,34,22.0,0,,1118.94,186.49
+1163486722199145216,Santa Venerina,Entire rental unit,Entire home/apt,4,2.0,21,35.0,0,,765.5,191.38
+1175979715297209231,Noto,Tent,Entire home/apt,4,2.0,20,35.0,0,,735.0,183.75
+1176410183201353405,Partinico,Entire home,Entire home/apt,4,2.0,23,35.0,0,,739.5,184.88
+1181948002539808883,Lipari,Entire home,Entire home/apt,2,1.0,7,33.0,0,,465.23,232.62
+1183753961346161699,Noto,Entire villa,Entire home/apt,7,4.0,31,37.0,0,,1512.0,216.0
+1185352022481107462,Ragusa,Entire home,Entire home/apt,4,2.0,31,35.0,0,,685.25,171.31
+1186050666121196280,Ragusa,Entire home,Entire home/apt,4,2.0,31,35.0,0,,706.75,176.69
+1210140019535217181,Siracusa,Entire villa,Entire home/apt,6,3.0,30,38.0,0,,1060.0,176.67
+1212653943086087899,Partinico,Entire home,Entire home/apt,4,2.0,21,35.0,0,,769.5,192.38
+1220434854282287443,Castellammare del Golfo,Entire home,Entire home/apt,4,2.0,19,35.0,0,,840.69,210.17
+1222278007854901800,Taormina,Entire rental unit,Entire home/apt,2,1.0,11,33.0,0,,375.0,187.5
+1238514724451165332,Balestrate,Boat,Entire home/apt,8,4.0,4,37.0,0,,7000.0,875.0
+1255578511660110287,Palermo,Private room in rental unit,Private room,2,,11,,0,,343.0,171.5
+1275436752382157597,Terrasini,Entire home,Entire home/apt,4,2.0,9,35.0,0,,711.0,177.75
+1294148782674771478,Cefal,Private room in bed and breakfast,Private room,4,2.0,18,22.0,0,,1683.95,420.99
+1292047766316055495,Palermo,Room in boutique hotel,Private room,2,1.0,56,22.0,0,,403.0,201.5
+1292098109472119475,Palermo,Room in boutique hotel,Private room,2,1.0,56,22.0,0,,442.0,221.0
+1299133044726479719,Avola,Room in hotel,Private room,2,1.0,41,22.0,0,,411.0,205.5
+1306386305295186527,Palermo,Entire villa,Entire home/apt,4,2.0,44,35.0,0,,818.0,204.5
+1311663295324407641,Catania,Private room in tiny home,Private room,2,,5,,0,,343.0,171.5
+1309968614600037180,Trapani,Entire home,Entire home/apt,16,19.0,29,37.0,0,,13200.0,825.0
+1323129831378085939,Letojanni,Entire villa,Entire home/apt,14,7.0,27,37.0,0,,5643.0,403.07
+1324016008167072762,Pozzallo,Entire rental unit,Entire home/apt,4,1.0,25,33.0,0,,763.0,190.75
+1349255351337794367,Agrigento,Private room in home,Private room,4,,31,,0,,843.0,210.75
+1359999466206926813,Acireale,Entire villa,Entire home/apt,8,4.0,28,37.0,0,,2200.0,275.0
+1361487614831430837,Agrigento,Entire condo,Entire home/apt,3,1.0,56,33.0,0,,1718.0,572.67
+1365997192064554839,Cefal,Entire villa,Entire home/apt,4,2.0,22,35.0,0,,815.8,203.95
+1372970053962918556,Scicli,Entire rental unit,Entire home/apt,2,1.0,27,33.0,0,,374.0,187.0
+1383161495048219959,Scicli,Entire villa,Entire home/apt,8,4.0,50,37.0,0,,1357.79,169.72
+1385377569228240275,Pedara,Private room in rental unit,Private room,6,2.0,14,22.0,0,,2000.0,333.33
+1385462524619081444,Pedara,Entire home,Entire home/apt,4,2.0,9,35.0,0,,2000.0,500.0
+1389705224749499505,Lentini,Entire villa,Entire home/apt,16,12.0,29,37.0,0,,4544.4,284.02
+1393511050504805771,Cefal,Entire condo,Entire home/apt,2,1.0,42,33.0,0,,410.0,205.0
+1394958250454445699,Pedara,Entire villa,Entire home/apt,2,4.0,55,37.0,0,,367.2,183.6
+1394774136638094656,Siracusa,Room in hotel,Private room,2,1.0,6,22.0,0,,462.0,231.0
+1399018546024802658,Trapani,Private room in bed and breakfast,Private room,1,,5,,0,,525.6,525.6
+1401252299975405671,Cefal,Room in boutique hotel,Private room,2,1.0,31,22.0,0,,633.0,316.5
+1402028036950844387,Cefal,Room in boutique hotel,Private room,2,1.0,34,22.0,0,,696.0,348.0
+1402042452189512740,Cefal,Room in boutique hotel,Private room,3,1.0,34,22.0,0,,920.0,306.67
+1402051734664815493,Cefal,Room in boutique hotel,Private room,2,1.0,31,22.0,0,,822.0,411.0
+1402058072451097290,Cefal,Room in boutique hotel,Private room,2,1.0,30,22.0,0,,696.0,348.0
+1402064611991234059,Cefal,Room in boutique hotel,Private room,3,1.0,32,22.0,0,,1173.0,391.0
+1402068113450542058,Cefal,Room in boutique hotel,Private room,2,1.0,29,22.0,0,,822.0,411.0
+1402070535543393202,Cefal,Room in boutique hotel,Private room,3,1.0,31,22.0,0,,765.0,255.0
+1402073848145707076,Cefal,Room in boutique hotel,Private room,4,2.0,15,22.0,0,,1075.0,268.75
+1406306694734558494,Palermo,Entire rental unit,Entire home/apt,4,2.0,6,35.0,0,,3424.0,856.0
+1408856782481040569,Acireale,Entire villa,Entire home/apt,16,16.0,30,37.0,0,,3060.57,191.29
+1409173750257551990,Mascali,Entire villa,Entire home/apt,14,12.0,26,37.0,0,,3034.43,216.74
+1407312199141245994,Noto,Entire serviced apartment,Entire home/apt,2,1.0,42,33.0,0,,377.6,188.8
+1407388986107281769,Palermo,Private room in boat,Private room,6,3.0,24,24.0,0,,1283.0,213.83
+1410711849182017985,Palermo,Entire rental unit,Entire home/apt,2,1.0,6,33.0,0,,3424.0,1712.0
+1416560723746462162,San Vito Lo Capo,Entire condo,Entire home/apt,5,1.0,12,33.0,0,,1131.57,226.31
+1417287224968401577,Custonaci,Entire villa,Entire home/apt,4,2.0,43,35.0,0,,911.0,227.75
+1417911959923006456,Palermo,Private room in boat,Private room,6,2.0,18,22.0,0,,1267.0,211.17
+1419386984624812366,Taormina,Entire villa,Entire home/apt,12,6.0,26,37.0,0,,3124.29,260.36
+1421007918401479029,Ragusa,Entire villa,Entire home/apt,16,18.0,49,37.0,0,,5107.1,319.19
+1426889245492569757,Giardini-Naxos,Entire villa,Entire home/apt,16,14.0,32,37.0,0,,5795.86,362.24
+1429544924417662120,San Vito Lo Capo,Room in hotel,Private room,2,1.0,18,22.0,0,,404.8,202.4
+1429617623945784839,San Vito Lo Capo,Room in hotel,Private room,2,1.0,19,22.0,0,,413.6,206.8
+1429623092639767283,Siracusa,Room in hotel,Private room,2,1.0,6,22.0,0,,378.0,189.0
+1429631379464665881,San Vito Lo Capo,Room in hotel,Private room,2,1.0,19,22.0,0,,528.0,264.0
+1429633341295548522,Siracusa,Room in hotel,Private room,2,1.0,9,22.0,0,,410.0,205.0
+1429647214706755342,San Vito Lo Capo,Room in hotel,Private room,3,1.0,19,22.0,0,,545.6,181.87
+1429654577956874417,San Vito Lo Capo,Room in hotel,Private room,4,1.0,19,22.0,0,,660.0,165.0
+1429659893126475275,San Vito Lo Capo,Room in hotel,Private room,4,1.0,19,22.0,0,,704.0,176.0
+1430278471094666723,Giarre,Entire rental unit,Entire home/apt,16,8.0,12,37.0,0,,2670.0,166.88
+1431880985922311174,Siracusa,Room in hotel,Private room,2,1.0,5,22.0,0,,336.0,168.0
+1435606364039830344,Carini,Entire villa,Entire home/apt,16,13.0,12,37.0,0,,2853.0,178.31
+1445563122900093063,Castelvetrano,Entire vacation home,Entire home/apt,16,6.0,58,37.0,0,,2750.0,171.88
+1444870818339956796,Castellammare del Golfo,Entire home,Entire home/apt,6,3.0,34,38.0,0,,1226.0,204.33
+1445016785457704142,Ispica,Entire villa,Entire home/apt,8,4.0,27,37.0,0,,1377.86,172.23
+1449872070673843945,Pachino,Entire rental unit,Entire home/apt,5,2.0,32,35.0,0,,1144.5,228.9
+1452023772344199629,Carini,Private room in bed and breakfast,Private room,2,,30,,0,,456.47,228.24
+1455062337221345570,Taormina,Entire home,Entire home/apt,10,5.0,22,37.0,0,,1760.0,176.0
+1458010176484201995,Lipari,Entire rental unit,Entire home/apt,5,2.0,26,35.0,0,,901.0,180.2
+1460713534322465561,Carini,Private room in bed and breakfast,Private room,2,,30,,0,,456.47,228.24
+1460173785555156226,Favara,Room in hotel,Private room,2,1.0,16,22.0,0,,368.0,184.0
+1460210525017546422,Agrigento,Room in hotel,Private room,2,1.0,17,22.0,0,,437.0,218.5
+1462105128190513007,Trapani,Private room in bed and breakfast,Private room,2,,5,,0,,521.15,260.58
+1461338239994830209,Palermo,Room in hotel,Private room,2,1.0,6,22.0,0,,324.0,162.0
+1461343413519310825,Palermo,Room in hotel,Private room,2,1.0,8,22.0,0,,346.0,173.0
+1461348202189451094,Palermo,Room in hotel,Private room,2,1.0,11,22.0,0,,346.0,173.0
+1461363875240869512,Palermo,Room in hotel,Private room,2,1.0,12,22.0,0,,627.0,313.5
+1461369027701172722,Palermo,Room in hotel,Private room,4,2.0,12,22.0,0,,759.0,189.75
+1461371296791656822,Palermo,Room in hotel,Private room,6,3.0,12,24.0,0,,990.0,165.0
+1462939369301682747,Noto,Entire villa,Entire home/apt,12,6.0,76,37.0,0,,2417.75,201.48
+1470391981501898684,Siracusa,Entire villa,Entire home/apt,4,2.0,34,35.0,0,,1118.0,279.5
+1470863675374026444,Palermo,Entire home,Entire home/apt,8,4.0,14,37.0,0,,1480.59,185.07
+1474730758740654018,Palermo,Entire villa,Entire home/apt,10,4.0,62,37.0,0,,1662.23,166.22
+1473191106558939888,Siracusa,Entire rental unit,Entire home/apt,6,2.0,30,35.0,0,,1755.0,292.5
+1478195001191289725,Taormina,Room in hotel,Private room,2,10.0,5,19.0,0,,564.8,282.4
+1486336024724940972,Catania,Entire rental unit,Entire home/apt,2,2.0,15,35.0,0,,333.2,166.6
+1487685660755478501,Noto,Entire villa,Entire home/apt,4,2.0,40,35.0,0,,1203.4,300.85
+1487685972009391725,Noto,Entire villa,Entire home/apt,6,3.0,37,38.0,0,,1342.0,223.67
+1501508483681233523,Siracusa,Entire villa,Entire home/apt,8,4.0,26,37.0,0,,1891.0,236.38
+1500726623141392013,Avola,Entire villa,Entire home/apt,10,4.0,22,37.0,0,,1930.0,193.0
+1500750047972266136,Siculiana,Entire villa,Entire home/apt,6,3.0,36,38.0,0,,1680.0,280.0
+1500754549363939603,Avola,Entire villa,Entire home/apt,12,6.0,28,37.0,0,,3189.86,265.82
+1500772149035929442,Palermo,Entire villa,Entire home/apt,10,5.0,29,37.0,0,,1756.71,175.67
+1510775586106844105,Pozzallo,Entire villa,Entire home/apt,6,3.0,17,38.0,0,,1079.5,179.92
+1507993012537323373,Augusta,Entire villa,Entire home/apt,6,3.0,25,38.0,0,,1394.43,232.4
+1507993822821041563,Noto,Entire villa,Entire home/apt,10,5.0,20,37.0,0,,1738.0,173.8
+1507994331702122656,Rosolini,Entire villa,Entire home/apt,8,4.0,26,37.0,0,,1647.8,205.98
+1507995033688720200,Scicli,Entire villa,Entire home/apt,16,10.0,23,37.0,0,,3652.0,228.25
+1519348391681273486,Trabia,Entire rental unit,Entire home/apt,3,1.0,28,33.0,0,,540.0,180.0
+1517273854149335413,Modica,Entire villa,Entire home/apt,4,2.0,24,35.0,0,,1415.5,353.88
+1522392140412102161,Augusta,Entire home,Entire home/apt,6,3.0,25,38.0,0,,1129.5,188.25
+1517321192597765599,Castellammare del Golfo,Entire villa,Entire home/apt,6,3.0,18,38.0,0,,1144.57,190.76
+1523932605802770802,Siracusa,Entire home,Entire home/apt,6,3.0,25,38.0,0,,1521.0,253.5
+1523957273067855749,Siracusa,Entire home,Entire home/apt,8,4.0,44,37.0,0,,1823.0,227.88
+1526035473917379050,Siracusa,Entire home,Entire home/apt,8,4.0,22,37.0,0,,1325.0,165.62
+1527590656636543668,Siracusa,Entire villa,Entire home/apt,16,8.0,31,37.0,0,,4008.43,250.53
+1533194641524912715,Siracusa,Entire villa,Entire home/apt,12,6.0,31,37.0,0,,2933.0,244.42
+1533346140324792792,Letojanni,Entire villa,Entire home/apt,14,7.0,37,37.0,0,,5058.0,361.29
+1533355018954397094,Giarre,Entire villa,Entire home/apt,6,3.0,16,38.0,0,,1042.75,173.79
+1533990992580600337,Augusta,Entire villa,Entire home/apt,8,4.0,18,37.0,0,,1884.71,235.59
+1533994640557038483,Augusta,Entire villa,Entire home/apt,6,3.0,19,38.0,0,,1347.14,224.52
+1541324116983383422,Canicattini Bagni,Entire home,Entire home/apt,6,3.0,25,38.0,0,,1682.5,280.42
+1543502831677487155,Favignana,Entire villa,Entire home/apt,4,2.0,12,35.0,0,,1006.0,251.5
+1543504761764188223,Santa Croce Camerina,Entire villa,Entire home/apt,16,9.0,14,37.0,0,,2755.14,172.2
+1543510496713782071,Mascali,Entire villa,Entire home/apt,8,4.0,16,37.0,0,,1663.2,207.9
+1543515009469509071,Acquedolci,Entire villa,Entire home/apt,4,2.0,13,35.0,0,,834.75,208.69
+1547722606653380368,Sciacca,Entire villa,Entire home/apt,6,3.0,17,38.0,0,,1165.5,194.25
+1548393700901745564,Avola,Entire villa,Entire home/apt,10,5.0,32,37.0,0,,1679.0,167.9
+1550529153510097618,Taormina,Entire home,Entire home/apt,2,1.0,36,33.0,0,,468.0,234.0
+1556385170917189257,Avola,Entire villa,Entire home/apt,9,4.0,33,37.0,0,,1480.0,164.44
+1551609245657678632,Ragusa,Entire rental unit,Entire home/apt,15,5.0,38,37.0,0,,2871.0,191.4
+1557318946003764845,Alcamo,Entire home,Entire home/apt,16,10.0,32,37.0,0,,3218.4,201.15
+1552753061927359316,Alcamo,Castle,Entire home/apt,16,9.0,28,37.0,0,,3791.52,236.97
+1558635689551801979,Taormina,Entire rental unit,Entire home/apt,2,1.0,44,33.0,0,,374.5,187.25
+1554440268949097019,Castelvetrano,Entire home,Entire home/apt,6,3.0,24,38.0,0,,1122.43,187.07
+1559279886783568511,Taormina,Entire rental unit,Entire home/apt,2,1.0,41,33.0,0,,384.5,192.25
+1559481895459282167,Riposto,Entire villa,Entire home/apt,8,4.0,18,37.0,0,,1908.0,238.5
+1561408561762732900,Trecastagni,Dome,Entire home/apt,2,1.0,15,33.0,0,,358.0,179.0
+1562267346540039812,Ragusa,Entire rental unit,Entire home/apt,4,2.0,21,35.0,0,,848.5,212.12
+1567228145580180517,Ragusa,Entire home,Entire home/apt,6,3.0,24,38.0,0,,1116.5,186.08
+1574001723191608840,Partinico,Castle,Entire home/apt,16,7.0,9,37.0,0,,6000.0,375.0
+1574164889612880864,Ragusa,Entire home,Entire home/apt,4,2.0,21,35.0,0,,768.0,192.0
+1577110747436092545,Giardini-Naxos,Entire rental unit,Entire home/apt,1,,13,,0,,223.0,223.0
+1577452625142092990,Partinico,Entire home,Entire home/apt,2,,12,,0,,420.5,210.25
+1577340944653784633,Pantelleria,Entire rental unit,Entire home/apt,1,,13,,0,,228.86,228.86
+1577340947151104608,Pantelleria,Entire rental unit,Entire home/apt,1,,14,,0,,268.86,268.86
+1577340947782305678,Pantelleria,Entire rental unit,Entire home/apt,1,,13,,0,,274.57,274.57
+1579799968960927467,Melilli,Entire home,Entire home/apt,6,2.0,30,35.0,0,,1225.0,204.17
+1588348130928030473,Terrasini,Entire home,Entire home/apt,4,2.0,25,35.0,0,,820.5,205.12
+1602251748574904203,Palma di Montechiaro,Entire guest suite,Entire home/apt,2,1.0,11,33.0,0,,515.0,257.5
+1604213606820133912,Avola,Entire villa,Entire home/apt,8,4.0,20,37.0,0,,1800.0,225.0
+1609375407114455234,Acireale,Entire villa,Entire home/apt,12,6.0,11,37.0,0,,4933.0,411.08
+1609508666336679836,Pachino,Entire home,Entire home/apt,6,3.0,14,38.0,0,,1045.8,174.3
+1609510522122256091,Noto,Entire villa,Entire home/apt,6,3.0,16,38.0,0,,1087.8,181.3
+1609511608994397362,Pachino,Entire villa,Entire home/apt,4,3.0,13,38.0,0,,1037.25,259.31
+1609515207767181223,Avola,Entire villa,Entire home/apt,2,1.0,15,33.0,0,,801.25,400.62
+1612429984035176427,Palermo,Entire rental unit,Entire home/apt,6,3.0,10,38.0,0,,1712.0,285.33
+1613802821064669686,Melilli,Entire cottage,Entire home/apt,2,1.0,29,33.0,0,,403.33,201.66
+1614990459229197432,Pantelleria,Entire rental unit,Entire home/apt,1,,13,,0,,228.86,228.86
+1618780401390616764,Avola,Entire villa,Entire home/apt,6,2.0,28,35.0,0,,2119.0,353.17
+1620363181754203869,Riposto,Entire villa,Entire home/apt,10,5.0,18,37.0,0,,3381.0,338.1
+1620363385046117887,Siracusa,Entire villa,Entire home/apt,8,4.0,16,37.0,0,,1947.0,243.38
+1620363418050318319,Augusta,Entire home,Entire home/apt,13,7.0,21,37.0,0,,3495.0,268.85
+1620365836110764562,Castellammare del Golfo,Entire villa,Entire home/apt,10,5.0,18,37.0,0,,2239.71,223.97
+1621028770595528920,Palermo,Entire home,Entire home/apt,6,3.0,11,38.0,0,,1047.33,174.55
+1621803263876329374,Noto,Tent,Entire home/apt,2,1.0,12,33.0,0,,479.0,239.5
+1623261245206074700,Avola,Entire villa,Entire home/apt,12,6.0,20,37.0,0,,2970.43,247.54
+1623264511462445434,Noto,Entire villa,Entire home/apt,14,7.0,16,37.0,0,,3830.4,273.6
+1625192897429782058,Balestrate,Entire rental unit,Entire home/apt,2,1.0,32,33.0,0,,671.0,335.5
+1624633804984838052,Noto,Entire villa,Entire home/apt,10,5.0,17,37.0,0,,2869.75,286.98
+1628424412013942085,Siracusa,Entire villa,Entire home/apt,8,3.0,42,38.0,0,,2765.0,345.62
+1633274339735935637,Taormina,Entire villa,Entire home/apt,12,6.0,34,37.0,0,,2756.0,229.67
+1633275035072464934,Acireale,Entire villa,Entire home/apt,16,8.0,32,37.0,0,,3180.0,198.75
+1633278215779507423,Giardini-Naxos,Entire villa,Entire home/apt,16,10.0,39,37.0,0,,5936.0,371.0
+1642648905723325991,Fiumefreddo di Sicilia,Entire villa,Entire home/apt,16,10.0,33,37.0,0,,2968.0,185.5
+1645181114330760797,Portopalo di Capo Passero,Entire rental unit,Entire home/apt,2,1.0,27,33.0,0,,806.0,403.0
+1645755593703445546,Pantelleria,Entire home,Entire home/apt,2,1.0,23,33.0,0,,405.33,202.66
+1647192118714141348,Taormina,Entire home,Entire home/apt,4,2.0,9,35.0,0,,817.08,204.27
+1647266812678937118,Pozzallo,Entire rental unit,Entire home/apt,4,2.0,31,35.0,0,,990.0,247.5
+1648719231881959866,Capo d'Orlando,Entire rental unit,Entire home/apt,3,1.0,27,33.0,0,,853.0,284.33
+1649318814843768338,San Vito Lo Capo,Entire rental unit,Entire home/apt,6,2.0,21,35.0,0,,1204.0,200.67
+1648544162681396930,San Vito Lo Capo,Entire rental unit,Entire home/apt,4,2.0,21,35.0,0,,897.2,224.3
+1648553406466080928,San Vito Lo Capo,Entire rental unit,Entire home/apt,4,1.0,24,33.0,0,,928.0,232.0
+1650564612514837277,Lipari,Entire villa,Entire home/apt,4,2.0,27,35.0,0,,659.0,164.75
+1650896801776502298,San Vito Lo Capo,Entire home,Entire home/apt,4,1.0,23,33.0,0,,1146.0,286.5
+1650897929176459182,San Vito Lo Capo,Entire home,Entire home/apt,4,1.0,23,33.0,0,,670.0,167.5
+1650900189162322815,San Vito Lo Capo,Entire home,Entire home/apt,4,2.0,25,35.0,0,,1508.0,377.0
+1651287437454535770,Gioiosa Marea,Entire rental unit,Entire home/apt,2,1.0,37,33.0,0,,327.0,163.5
+1654154636427859645,Mazara del Vallo,Entire villa,Entire home/apt,5,2.0,32,35.0,0,,1605.0,321.0
+1659562035092349066,Giardini-Naxos,Entire rental unit,Entire home/apt,2,1.0,24,33.0,0,,400.0,200.0
+1662852329342277230,Ragusa,Entire rental unit,Entire home/apt,4,1.0,30,33.0,0,,1369.0,342.25
+1663578854542022092,Ragusa,Entire rental unit,Entire home/apt,5,2.0,30,35.0,0,,1369.0,273.8
+1662461775671224394,Ragusa,Entire rental unit,Entire home/apt,6,2.0,30,35.0,0,,1204.0,200.67
+1664468042717391226,Trapani,Entire rental unit,Entire home/apt,4,1.0,28,33.0,0,,975.0,243.75
+1663855864047893760,Taormina,Entire home,Entire home/apt,5,3.0,39,38.0,0,,1004.24,200.85
+1664736544282195665,Pachino,Entire rental unit,Entire home/apt,4,1.0,31,33.0,0,,1201.0,300.25
+1670429490107082024,Siracusa,Entire rental unit,Entire home/apt,4,1.0,29,33.0,0,,1125.0,281.25
+1674652689862122342,Capo d'Orlando,Entire home,Entire home/apt,6,3.0,30,38.0,0,,1074.5,179.08
+1678110828596968656,Palermo,Private room in rental unit,Private room,1,1.0,54,22.0,0,,266.04,266.04
+1680972655710814632,Siracusa,Entire villa,Entire home/apt,5,3.0,38,38.0,0,,1200.0,240.0
+1683241948650984555,Giarre,Entire villa,Entire home/apt,4,2.0,38,35.0,0,,984.0,246.0
+1683619517969759542,Trecastagni,Entire rental unit,Entire home/apt,2,,17,,0,,2116.0,1058.0
+1683328871187889954,Palermo,Entire rental unit,Entire home/apt,1,,16,,0,,246.5,246.5
+1684205371750005172,Torretta,Entire home,Entire home/apt,4,,19,,0,,823.36,205.84
+1686381412628562052,Ispica,Entire rental unit,Entire home/apt,2,2.0,35,35.0,0,,540.0,270.0
+1693454029971300858,Noto,Entire villa,Entire home/apt,4,2.0,44,35.0,0,,1038.0,259.5
+1694017827809777648,Siculiana,Entire rental unit,Entire home/apt,6,2.0,43,35.0,0,,2740.0,456.67
+1694351871194556375,Letojanni,Entire rental unit,Entire home/apt,6,3.0,35,38.0,0,,1240.0,206.67
+1694809525805867126,Taormina,Private room in rental unit,Private room,12,6.0,17,19.0,0,,2321.0,193.42
+1695578320132847684,Acireale,Entire villa,Entire home/apt,8,4.0,17,37.0,0,,1490.0,186.25
+1699206356614903713,Mascali,Entire rental unit,Entire home/apt,4,1.0,37,33.0,0,,1000.0,250.0
+1701340893079354370,Augusta,Entire villa,Entire home/apt,10,3.0,43,38.0,0,,2419.0,241.9
+1706341840244189132,Taormina,Room in boutique hotel,Private room,3,1.0,22,22.0,0,,788.0,262.67
+1706343913767002375,Taormina,Room in boutique hotel,Private room,3,1.0,22,22.0,0,,945.0,315.0
+1706345451912234612,Taormina,Room in boutique hotel,Private room,3,1.0,24,22.0,0,,1260.0,420.0
+1707093920971405228,Taormina,Entire rental unit,Entire home/apt,2,1.0,10,33.0,0,,576.0,288.0
+1707103739610642381,Taormina,Entire rental unit,Entire home/apt,2,1.0,10,33.0,0,,568.0,284.0
+1709962398788465266,San Vito Lo Capo,Entire villa,Entire home/apt,4,2.0,33,35.0,0,,1220.0,305.0
+1712137462179978027,Alcamo,Entire rental unit,Entire home/apt,5,2.0,26,35.0,0,,1045.0,209.0
+1713862138209338327,Agrigento,Entire villa,Entire home/apt,2,1.0,14,33.0,0,,349.0,174.5
+1715298136929713987,Santa Marina Salina,Entire rental unit,Entire home/apt,3,1.0,18,33.0,0,,504.0,168.0
+1718736581308311761,Lipari,Entire villa,Entire home/apt,11,4.0,32,37.0,0,,2070.0,188.18

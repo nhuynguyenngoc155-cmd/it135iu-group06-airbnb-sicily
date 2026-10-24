@@ -1,0 +1,15 @@
+id,neighbourhood_cleansed,property_type,room_type,accommodates,bedrooms,amenities_count,peer_median_amenities,number_of_reviews,review_scores_rating,price,price_per_guest
+2378021,Catania,Shared room in hostel,Shared room,16,1.0,16,30.0,102,4.65,40.0,2.5
+3306708,Marsala,Private room in bed and breakfast,Private room,8,2.0,9,22.0,0,,15.67,1.96
+3611023,Augusta,Entire rental unit,Entire home/apt,6,2.0,10,35.0,1,4.0,2.59,0.43
+5564804,Enna,Tent,Entire home/apt,10,3.0,37,38.0,14,4.57,18.0,1.8
+6605340,Augusta,Entire rental unit,Entire home/apt,6,2.0,9,35.0,0,,2.02,0.34
+13118620,Acquaviva Platani,Tent,Entire home/apt,16,10.0,8,37.0,1,5.0,13.0,0.81
+13261375,Francavilla di Sicilia,Private room in farm stay,Private room,16,10.0,22,19.0,110,4.75,38.74,2.42
+13274814,Francavilla di Sicilia,Private room in villa,Private room,16,,18,,21,4.19,39.1,2.44
+19669411,Bronte,Entire rental unit,Entire home/apt,13,3.0,35,38.0,9,4.67,11.92,0.92
+21453524,Pollina,Entire villa,Entire home/apt,8,3.0,29,38.0,0,,8.08,1.01
+29648190,Catania,Entire rental unit,Entire home/apt,5,2.0,38,35.0,13,5.0,8.37,1.67
+946175698662506168,Collesano,Private room in bed and breakfast,Private room,16,,47,,14,4.57,40.0,2.5
+997039741009234281,Grammichele,Private room in rental unit,Private room,12,5.0,29,19.0,0,,29.0,2.42
+1109371123590913515,Licata,Private room in bed and breakfast,Private room,16,5.0,13,19.0,3,4.67,34.0,2.12

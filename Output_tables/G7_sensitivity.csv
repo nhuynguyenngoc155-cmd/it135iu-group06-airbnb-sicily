@@ -1,0 +1,5 @@
+room_type,listings_all,median_ppg_all,mean_ppg_all,listings_without_flags,median_ppg_without_flags,mean_ppg_without_flags,median_change_%,mean_change_%
+Entire home/apt,41131.0,34.91,44.99,40570.0,34.62,41.18,-0.81,-8.48
+Hotel room,178.0,43.35,52.7,175.0,43.0,50.55,-0.82,-4.07
+Private room,10495.0,39.44,52.46,10377.0,39.0,43.77,-1.1,-16.56
+Shared room,60.0,30.0,26.48,59.0,30.0,26.88,0.0,1.53

@@ -1,0 +1,8 @@
+filter,condition,rows,% of df_clean
+F1_outliers,"price_outlier = True (above room-type fence, step 14)",669,1.29
+F2_high_flag,far-out high price per guest (step 12),40,0.08
+F3_low_flag,far-out low price per guest (step 13),14,0.03
+F4_not_explained,outlier AND amenities <= median of peers: price not explained by amenities,364,0.7
+F5_credible,outlier AND >=10 reviews AND rating >=4.5: likely a genuine premium listing,108,0.21
+F6_no_reviews,outlier AND zero reviews: no guest evidence for the price,333,0.64
+F7_top20,20 highest prices per guest among outliers,20,0.04
