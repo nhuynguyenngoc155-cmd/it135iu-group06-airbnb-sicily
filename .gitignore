@@ -19,3 +19,7 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Per-listing result tables (do not republish Inside Airbnb data)
+Output_tables/F[1-7]_*.csv
+outputs/tables/F[1-7]_*.csv
