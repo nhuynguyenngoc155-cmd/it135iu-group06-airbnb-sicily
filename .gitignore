@@ -1,5 +1,21 @@
+
+# Data files
 data/
+listings.csv
+reviews.csv
+Sicily.csv
+
+# Python cache
 __pycache__/
+*.py[cod]
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Virtual environments
 .venv/
 venv/
+
+# OS files
+.DS_Store
+Thumbs.db
