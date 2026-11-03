@@ -1,0 +1,373 @@
+neighbourhood_cleansed,Entire home/apt,Hotel room,Private room,Shared room,total
+Palermo,5546,25,1677,31,7279
+Catania,3212,3,1149,3,4367
+Siracusa,2949,7,448,6,3410
+Noto,1388,1,231,0,1620
+Castellammare del Golfo,1376,9,183,0,1568
+San Vito Lo Capo,1042,6,235,2,1285
+Taormina,963,2,259,1,1225
+Ragusa,980,11,232,0,1223
+Trapani,926,6,221,4,1157
+Lipari,953,9,151,0,1113
+Marsala,855,11,226,1,1093
+Agrigento,586,3,458,0,1047
+Avola,776,8,128,0,912
+Cefal,746,2,159,0,907
+Giardini-Naxos,665,10,126,0,801
+Modica,625,0,106,0,731
+Scicli,647,3,66,0,716
+Favignana,495,2,106,0,603
+Sciacca,444,3,120,0,567
+Pachino,450,0,114,0,564
+Acireale,413,0,106,0,519
+Pantelleria,490,1,15,0,506
+Alcamo,430,4,51,0,485
+Messina,273,12,157,0,442
+Ispica,408,0,24,0,432
+Mascali,396,0,29,0,425
+Augusta,359,0,53,0,412
+Milazzo,290,3,104,1,398
+Terrasini,292,4,69,0,365
+Lampedusa e Linosa,314,0,40,0,354
+Carini,277,0,74,0,351
+Capo d'Orlando,273,0,55,0,328
+Mazara del Vallo,261,0,56,0,317
+Santa Flavia,277,0,26,0,303
+Campofelice di Roccella,250,0,49,0,299
+Pozzallo,246,0,41,0,287
+Castelvetrano,251,0,34,0,285
+Aci Castello,233,0,51,0,284
+Balestrate,241,0,32,0,273
+Erice,208,2,59,0,269
+Custonaci,205,3,41,0,249
+Menfi,227,3,15,0,245
+Letojanni,212,0,27,0,239
+Cinisi,171,0,64,0,235
+Santa Croce Camerina,195,5,21,1,222
+Realmonte,152,0,53,0,205
+Isola delle Femmine,180,0,24,0,204
+Bagheria,160,0,44,0,204
+Porto Empedocle,134,4,63,0,201
+Partinico,166,0,28,0,194
+Valderice,142,0,42,0,184
+Giarre,141,0,42,0,183
+Riposto,153,1,25,0,179
+Caltagirone,91,0,76,0,167
+Portopalo di Capo Passero,122,0,31,0,153
+Gela,100,0,52,0,152
+Monreale,80,0,65,0,145
+Gioiosa Marea,119,0,22,0,141
+Trappeto,133,0,6,0,139
+Altavilla Milicia,127,0,11,0,138
+Trabia,115,0,23,0,138
+Vittoria,106,0,32,0,138
+Patti,103,0,32,1,136
+Malfa,111,0,24,0,135
+Licata,112,0,21,0,133
+Piazza Armerina,54,1,71,0,126
+Trecastagni,94,0,32,0,126
+Lascari,84,0,36,0,120
+Capaci,105,0,6,0,111
+Nicolosi,77,0,33,0,110
+Zafferana Etnea,75,4,29,0,108
+Castelbuono,68,0,38,0,106
+Ustica,99,0,6,0,105
+Santa Marina Salina,73,0,30,0,103
+Palazzolo Acreide,80,0,19,0,99
+Mascalucia,62,0,36,0,98
+Piedimonte Etneo,87,0,11,0,98
+Santa Teresa di Riva,85,0,9,0,94
+Termini Imerese,65,0,27,0,92
+Enna,39,0,53,0,92
+Calatabiano,76,0,14,0,90
+Sant'Alessio Siculo,83,0,7,0,90
+Favara,32,0,58,0,90
+Palma di Montechiaro,50,0,39,0,89
+Fiumefreddo di Sicilia,81,0,7,0,88
+Linguaglossa,63,0,25,0,88
+Castelmola,64,3,20,0,87
+Siculiana,60,0,26,0,86
+Casteldaccia,76,0,9,0,85
+Furnari,76,0,9,0,85
+Pollina,81,0,3,0,84
+Rosolini,61,0,20,0,81
+Chiaramonte Gulfi,48,0,30,0,78
+Sant'Agata di Militello,53,0,25,0,78
+Ribera,74,1,1,0,76
+Piraino,72,0,0,0,72
+Castiglione di Sicilia,46,0,26,0,72
+Caltanissetta,36,0,35,0,71
+Santo Stefano di Camastra,51,0,17,0,68
+Collesano,56,0,11,0,67
+Santa Venerina,57,0,10,0,67
+Viagrande,56,0,10,0,66
+Paceco,32,0,32,0,64
+Belpasso,44,0,20,0,64
+Oliveri,59,0,4,0,63
+Sambuca di Sicilia,35,0,26,0,61
+Pedara,45,0,16,0,61
+Ragalna,36,0,23,0,59
+Salemi,42,0,17,0,59
+Tusa,55,0,4,0,59
+Petrosino,43,0,15,0,58
+Randazzo,26,0,30,0,56
+Caronia,56,0,0,0,56
+Misterbianco,25,0,31,0,56
+Roccalumera,47,0,8,0,55
+Aci Catena,51,0,3,0,54
+Comiso,40,1,13,0,54
+Floridia,52,0,2,0,54
+Solarino,43,0,9,0,52
+Campobello di Mazara,46,0,6,0,52
+Canicatt,21,0,31,0,52
+Barcellona Pozzo di Gotto,27,0,21,1,49
+Calatafimi-Segesta,42,0,7,0,49
+Motta Camastra,44,0,2,3,49
+Acquedolci,39,0,9,0,48
+Leni,41,0,7,0,48
+Milo,35,0,12,0,47
+Aci Sant'Antonio,33,0,14,0,47
+Forza d'Agr,44,0,2,0,46
+Polizzi Generosa,33,0,13,0,46
+Buseto Palizzolo,40,0,6,0,46
+Terme Vigliatore,45,0,0,0,45
+Carlentini,36,0,9,0,45
+Mazzarino,31,0,12,1,44
+Montallegro,38,0,3,0,41
+Cattolica Eraclea,34,0,7,0,41
+Naso,30,0,10,0,40
+Partanna,29,0,11,0,40
+Caccamo,26,0,14,0,40
+Sant'Alfio,25,0,15,0,40
+Torrenova,36,0,2,0,38
+Gangi,9,0,28,0,37
+Falcone,32,0,4,0,36
+Ficarra,15,0,20,0,35
+Butera,18,0,15,2,35
+Bronte,25,0,9,0,34
+San Gregorio di Catania,30,1,3,0,34
+Francavilla di Sicilia,26,0,7,0,33
+Racalmuto,23,0,10,0,33
+Patern,27,0,6,0,33
+Savoca,25,0,7,0,32
+San Marco d'Alunzio,17,0,15,0,32
+Agira,12,2,18,0,32
+Adrano,16,0,16,0,32
+San Cataldo,21,0,9,0,30
+Ficarazzi,23,0,7,0,30
+Melilli,19,0,11,0,30
+Naro,24,0,5,0,29
+Santa Maria di Licodia,14,0,15,0,29
+Spadafora,27,0,2,0,29
+Canicattini Bagni,26,0,2,0,28
+Caltabellotta,17,0,11,0,28
+Sortino,15,0,13,0,28
+Aragona,17,0,11,0,28
+Gaggi,20,0,8,0,28
+Brolo,23,0,4,0,27
+Lentini,14,0,13,0,27
+Torretta,26,0,0,0,26
+Gratteri,21,0,5,0,26
+San Giovanni la Punta,21,0,5,0,26
+Reitano,23,0,3,0,26
+Petralia Sottana,18,2,6,0,26
+Corleone,12,0,12,0,24
+Nizza di Sicilia,24,0,0,0,24
+Nicosia,11,0,12,0,23
+Pietraperzia,13,0,10,0,23
+Torregrotta,23,0,0,0,23
+Furci Siculo,21,0,2,0,23
+Campobello di Licata,10,0,13,0,23
+Grammichele,13,0,9,0,22
+Graniti,22,0,0,0,22
+Cammarata,15,0,7,0,22
+Mussomeli,13,0,9,0,22
+Capri Leone,17,0,4,0,21
+Rometta,15,0,6,0,21
+Gravina di Catania,17,0,3,0,20
+Petralia Soprana,12,0,8,0,20
+Valverde,18,0,1,0,19
+Biancavilla,12,0,7,0,19
+Borgetto,16,0,3,0,19
+Tremestieri Etneo,11,0,8,0,19
+Sant'Angelo di Brolo,8,0,11,0,19
+Castronovo di Sicilia,4,0,14,0,18
+Montalbano Elicona,11,0,7,0,18
+Mistretta,13,0,4,0,17
+Joppolo Giancaxio,16,0,1,0,17
+Villafranca Tirrena,16,0,1,0,17
+Niscemi,10,0,7,0,17
+San Filippo del Mela,12,0,4,0,16
+San Giovanni Gemini,9,0,7,0,16
+Venetico,15,0,1,0,16
+Leonforte,12,0,3,0,15
+Isnello,14,0,1,0,15
+Rod Milici,15,0,0,0,15
+Aidone,7,0,8,0,15
+Maletto,14,0,0,0,14
+Giarratana,10,0,4,0,14
+Mirabella Imbaccari,8,0,6,0,14
+Santa Margherita di Belice,11,0,3,0,14
+San Mauro Castelverde,13,0,1,0,14
+Acate,8,0,5,0,13
+Sant'Agata li Battiati,8,0,5,0,13
+Monforte San Giorgio,9,0,4,0,13
+Aci Bonaccorsi,7,0,6,0,13
+Santa Ninfa,7,0,4,1,12
+Barrafranca,10,0,2,0,12
+San Pietro Clarenza,10,0,2,0,12
+Acquaviva Platani,3,0,9,0,12
+Alia,6,0,6,0,12
+Pettineo,7,0,5,0,12
+Prizzi,5,0,7,0,12
+Misilmeri,9,0,2,0,11
+Grotte,8,0,3,0,11
+Santa Elisabetta,6,0,5,0,11
+Ravanusa,10,0,1,0,11
+Castellana Sicula,7,0,4,0,11
+Gallodoro,5,0,6,0,11
+Bompietro,0,0,10,0,10
+Mirto,10,0,0,0,10
+Scillato,3,0,7,0,10
+Pace del Mela,8,0,2,0,10
+Motta Sant'Anastasia,8,0,2,0,10
+Motta d'Affermo,10,0,0,0,10
+Gibellina,6,0,4,0,10
+Al Terme,9,0,1,0,10
+Montelepre,8,0,2,0,10
+Santa Cristina Gela,2,0,7,1,10
+Ferla,9,0,0,0,9
+Cianciana,9,0,0,0,9
+Malvagna,0,0,9,0,9
+Geraci Siculo,4,0,5,0,9
+Villabate,9,0,0,0,9
+Sommatino,4,0,5,0,9
+Sperlinga,5,0,4,0,9
+San Giuseppe Jato,4,0,5,0,9
+San Piero Patti,7,0,2,0,9
+Buscemi,9,0,0,0,9
+Santo Stefano Quisquina,3,0,6,0,9
+Antillo,6,0,3,0,9
+Santa Caterina Villarmosa,6,0,2,0,8
+Ramacca,2,0,6,0,8
+Castroreale,5,0,3,0,8
+Valguarnera Caropepe,5,0,3,0,8
+Mineo,8,0,0,0,8
+Assoro,3,0,5,0,8
+Poggioreale,0,0,8,0,8
+Castrofilippo,4,0,4,0,8
+Monterosso Almo,8,0,0,0,8
+Novara di Sicilia,8,0,0,0,8
+Scaletta Zanclea,7,0,0,0,7
+Catenanuova,2,0,5,0,7
+Marineo,1,0,6,0,7
+Montevago,7,0,0,0,7
+Centuripe,7,0,0,0,7
+Cerami,2,0,5,0,7
+Cassaro,1,0,6,0,7
+Roccavaldina,3,0,4,0,7
+San Michele di Ganzaria,6,0,1,0,7
+Vita,5,0,2,0,7
+Sinagra,6,0,0,0,6
+Bolognetta,4,0,2,0,6
+Buccheri,3,0,3,0,6
+Tripi,4,0,2,0,6
+Ucria,2,0,4,0,6
+Tortorici,6,0,0,0,6
+San Pier Niceto,4,0,2,0,6
+San Fratello,3,0,3,0,6
+Roccapalumba,6,0,0,0,6
+Caltavuturo,3,0,3,0,6
+Campofiorito,3,0,3,0,6
+Valdina,6,0,0,0,6
+Lercara Friddi,5,0,1,0,6
+Militello in Val di Catania,6,0,0,0,6
+Calamonaci,6,0,0,0,6
+Pagliara,6,0,0,0,6
+Longi,2,0,4,0,6
+Condr,3,0,3,0,6
+Itala,5,0,0,0,5
+Contessa Entellina,3,0,2,0,5
+Galati Mamertino,5,0,0,0,5
+Palazzo Adriano,2,0,3,0,5
+Alcara li Fusi,5,0,0,0,5
+Fiumedinisi,5,0,0,0,5
+Librizzi,5,0,0,0,5
+Giuliana,3,0,2,0,5
+Ciminna,4,0,1,0,5
+Piana degli Albanesi,2,0,3,0,5
+Priolo Gargallo,4,0,1,0,5
+Regalbuto,3,0,2,0,5
+Saponara,5,0,0,0,5
+Bivona,5,0,0,0,5
+Scordia,2,0,3,0,5
+Serradifalco,3,0,2,0,5
+Delia,4,0,1,0,5
+Licodia Eubea,1,0,4,0,5
+Nissoria,2,0,2,0,4
+Valledolmo,3,0,1,0,4
+Villarosa,0,0,4,0,4
+Troina,0,0,4,0,4
+Bisacquino,3,0,1,0,4
+Calascibetta,4,0,0,0,4
+Altofonte,3,0,1,0,4
+Santa Lucia del Mela,4,0,0,0,4
+Cerda,3,0,1,0,4
+Raffadali,3,0,1,0,4
+Campofranco,4,0,0,0,4
+Salaparuta,3,0,1,0,4
+Riesi,4,0,0,0,4
+Militello Rosmarino,4,0,0,0,4
+Castel di Iudica,3,0,0,0,3
+Cesar,2,0,1,0,3
+Vizzini,3,0,0,0,3
+Camastra,3,0,0,0,3
+Roccamena,3,0,0,0,3
+Sclafani Bagni,0,0,3,0,3
+Montagnareale,3,0,0,0,3
+Casalvecchio Siculo,3,0,0,0,3
+Capizzi,0,0,3,0,3
+Raccuja,3,0,0,0,3
+Castell'Umberto,3,0,0,0,3
+Comitini,1,0,2,0,3
+Chiusa Sclafani,2,0,1,0,3
+Milena,1,0,2,0,3
+San Cono,3,0,0,0,3
+San Cipirello,3,0,0,0,3
+Casteltermini,0,0,2,0,2
+Al,2,0,0,0,2
+Alimena,2,0,0,0,2
+Maniace,2,0,0,0,2
+Godrano,2,0,0,0,2
+Francofonte,1,0,1,0,2
+Castel di Lucio,2,0,0,0,2
+Burgio,2,0,0,0,2
+Roccella Valdemone,2,0,0,0,2
+San Salvatore di Fitalia,2,0,0,0,2
+Palagonia,1,0,1,0,2
+Marianopoli,0,0,1,0,1
+Mer,1,0,0,0,1
+Villafrati,1,0,0,0,1
+Villafranca Sicula,1,0,0,0,1
+Vallelunga Pratameno,1,0,0,0,1
+Ventimiglia di Sicilia,1,0,0,0,1
+Gualtieri Sicamin,1,0,0,0,1
+Giardinello,1,0,0,0,1
+Floresta,1,0,0,0,1
+Limina,0,0,1,0,1
+Montedoro,1,0,0,0,1
+Mongiuffi Melia,1,0,0,0,1
+Montemaggiore Belsito,0,0,1,0,1
+Mezzojuso,1,0,0,0,1
+Gagliano Castelferrato,1,0,0,0,1
+San Biagio Platani,1,0,0,0,1
+Resuttano,0,0,1,0,1
+Camporeale,1,0,0,0,1
+Blufi,1,0,0,0,1
+Sciara,1,0,0,0,1
+Bompensiere,1,0,0,0,1
+Sant'Angelo Muxaro,0,0,1,0,1
+Santa Domenica Vittoria,0,0,1,0,1
+Sutera,1,0,0,0,1
+Basic,1,0,0,0,1
+Belmonte Mezzagno,1,0,0,0,1

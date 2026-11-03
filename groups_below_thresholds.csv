@@ -1,0 +1,6 @@
+threshold,groups_below,groups_below_pct,groups_at_or_above,listings_in_groups_below,listings_in_groups_below_pct
+5,232,32.9,473,536,1.0
+10,359,50.9,346,1401,2.7
+20,449,63.7,256,2599,5.0
+30,503,71.3,202,3904,7.5
+50,563,79.9,142,6145,11.8
