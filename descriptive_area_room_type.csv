@@ -1,0 +1,706 @@
+area,room_type,listings,q1,median,q3,enough_listings
+Palermo,Entire home/apt,5546,24.82,33.2,45.75,True
+Catania,Entire home/apt,3212,20.82,27.33,37.5,True
+Siracusa,Entire home/apt,2949,27.8,38.5,55.67,True
+Palermo,Private room,1677,28.91,40.0,54.67,True
+Noto,Entire home/apt,1388,28.61,43.43,66.12,True
+Castellammare del Golfo,Entire home/apt,1376,28.05,40.86,61.87,True
+Catania,Private room,1149,25.83,35.04,46.72,True
+San Vito Lo Capo,Entire home/apt,1042,32.27,42.85,57.98,True
+Ragusa,Entire home/apt,980,27.38,38.04,56.0,True
+Taormina,Entire home/apt,963,43.59,61.88,86.67,True
+Lipari,Entire home/apt,953,32.33,45.1,63.72,True
+Trapani,Entire home/apt,926,23.33,32.6,45.0,True
+Marsala,Entire home/apt,855,19.66,28.45,41.88,True
+Avola,Entire home/apt,776,25.48,36.0,55.08,True
+Cefal,Entire home/apt,746,38.58,53.62,74.96,True
+Giardini-Naxos,Entire home/apt,665,27.67,36.42,50.25,True
+Scicli,Entire home/apt,647,26.59,39.17,60.89,True
+Modica,Entire home/apt,625,24.62,36.24,51.75,True
+Agrigento,Entire home/apt,586,18.36,27.51,39.92,True
+Favignana,Entire home/apt,495,39.25,56.0,75.25,True
+Pantelleria,Entire home/apt,490,37.06,54.96,82.91,True
+Agrigento,Private room,458,23.01,32.51,46.43,True
+Pachino,Entire home/apt,450,28.77,39.33,57.95,True
+Siracusa,Private room,448,31.48,45.08,58.0,True
+Sciacca,Entire home/apt,444,22.73,32.09,44.57,True
+Alcamo,Entire home/apt,430,22.39,31.74,49.24,True
+Acireale,Entire home/apt,413,23.12,32.75,47.12,True
+Ispica,Entire home/apt,408,30.9,42.78,66.96,True
+Mascali,Entire home/apt,396,20.86,28.37,41.27,True
+Augusta,Entire home/apt,359,25.42,34.63,54.97,True
+Lampedusa e Linosa,Entire home/apt,314,37.1,51.42,76.15,True
+Terrasini,Entire home/apt,292,27.34,36.7,55.4,True
+Milazzo,Entire home/apt,290,23.79,31.67,42.96,True
+Carini,Entire home/apt,277,23.12,33.55,45.7,True
+Santa Flavia,Entire home/apt,277,28.53,38.5,52.49,True
+Messina,Entire home/apt,273,20.02,28.75,44.94,True
+Capo d'Orlando,Entire home/apt,273,28.02,36.6,48.5,True
+Mazara del Vallo,Entire home/apt,261,19.52,28.34,45.88,True
+Taormina,Private room,259,53.33,69.75,90.0,True
+Castelvetrano,Entire home/apt,251,21.84,33.33,59.26,True
+Campofelice di Roccella,Entire home/apt,250,25.0,33.39,45.37,True
+Pozzallo,Entire home/apt,246,27.97,35.91,50.25,True
+Balestrate,Entire home/apt,241,21.89,30.13,46.27,True
+San Vito Lo Capo,Private room,235,36.5,52.16,67.82,True
+Aci Castello,Entire home/apt,233,25.19,35.0,47.0,True
+Ragusa,Private room,232,28.5,42.37,59.12,True
+Noto,Private room,231,32.06,45.69,58.94,True
+Menfi,Entire home/apt,227,28.43,38.61,57.65,True
+Marsala,Private room,226,26.64,36.5,53.0,True
+Trapani,Private room,221,28.19,40.5,57.06,True
+Letojanni,Entire home/apt,212,28.9,37.67,53.0,True
+Erice,Entire home/apt,208,21.75,29.97,41.42,True
+Custonaci,Entire home/apt,205,24.75,34.37,52.15,True
+Santa Croce Camerina,Entire home/apt,195,24.83,33.98,46.85,True
+Castellammare del Golfo,Private room,183,29.22,44.33,65.75,True
+Isola delle Femmine,Entire home/apt,180,24.87,32.15,43.12,True
+Cinisi,Entire home/apt,171,22.97,31.5,49.44,True
+Partinico,Entire home/apt,166,25.18,39.94,69.2,True
+Bagheria,Entire home/apt,160,24.1,32.61,44.82,True
+Cefal,Private room,159,59.28,74.0,99.0,True
+Messina,Private room,157,27.33,39.28,47.5,True
+Riposto,Entire home/apt,153,19.4,28.13,40.83,True
+Realmonte,Entire home/apt,152,19.31,32.35,51.38,True
+Lipari,Private room,151,34.1,48.0,65.5,True
+Valderice,Entire home/apt,142,22.29,34.95,51.97,True
+Giarre,Entire home/apt,141,19.4,33.88,62.08,True
+Porto Empedocle,Entire home/apt,134,16.19,25.2,42.19,True
+Trappeto,Entire home/apt,133,20.97,29.59,47.12,True
+Avola,Private room,128,24.97,36.26,49.12,True
+Altavilla Milicia,Entire home/apt,127,26.11,36.83,56.6,True
+Giardini-Naxos,Private room,126,36.25,46.17,61.24,True
+Portopalo di Capo Passero,Entire home/apt,122,26.92,35.86,45.85,True
+Sciacca,Private room,120,28.92,40.25,53.5,True
+Gioiosa Marea,Entire home/apt,119,20.65,27.0,42.4,True
+Trabia,Entire home/apt,115,22.16,30.0,47.27,True
+Pachino,Private room,114,35.0,46.67,55.55,True
+Licata,Entire home/apt,112,16.3,22.13,34.48,True
+Malfa,Entire home/apt,111,38.31,50.78,68.53,True
+Modica,Private room,106,21.91,31.88,39.36,True
+Favignana,Private room,106,61.47,81.75,102.81,True
+Acireale,Private room,106,23.41,35.95,47.76,True
+Vittoria,Entire home/apt,106,23.21,33.03,44.66,True
+Capaci,Entire home/apt,105,21.61,28.03,36.67,True
+Milazzo,Private room,104,26.67,38.19,47.12,True
+Patti,Entire home/apt,103,18.82,28.5,41.3,True
+Gela,Entire home/apt,100,22.51,30.82,41.86,True
+Ustica,Entire home/apt,99,34.88,47.4,59.4,True
+Trecastagni,Entire home/apt,94,23.49,34.82,58.41,True
+Caltagirone,Entire home/apt,91,16.62,24.67,37.25,True
+Piedimonte Etneo,Entire home/apt,87,20.95,34.71,47.45,True
+Santa Teresa di Riva,Entire home/apt,85,23.08,30.5,40.0,True
+Lascari,Entire home/apt,84,26.94,37.6,46.0,True
+Sant'Alessio Siculo,Entire home/apt,83,23.05,30.92,43.89,True
+Pollina,Entire home/apt,81,20.94,31.0,57.07,True
+Fiumefreddo di Sicilia,Entire home/apt,81,20.0,27.02,38.49,True
+Palazzolo Acreide,Entire home/apt,80,20.45,28.81,48.81,True
+Monreale,Entire home/apt,80,19.09,28.97,39.5,True
+Nicolosi,Entire home/apt,77,16.57,25.75,39.0,True
+Furnari,Entire home/apt,76,19.84,29.37,37.65,True
+Caltagirone,Private room,76,24.25,34.5,45.67,True
+Calatabiano,Entire home/apt,76,25.2,36.6,45.42,True
+Casteldaccia,Entire home/apt,76,22.42,34.15,46.71,True
+Zafferana Etnea,Entire home/apt,75,19.31,26.94,39.86,True
+Carini,Private room,74,28.17,44.75,57.39,True
+Ribera,Entire home/apt,74,21.74,36.42,49.09,True
+Santa Marina Salina,Entire home/apt,73,36.16,48.43,64.25,True
+Piraino,Entire home/apt,72,18.7,33.87,50.56,True
+Piazza Armerina,Private room,71,16.89,28.33,38.72,True
+Terrasini,Private room,69,27.83,41.75,54.5,True
+Castelbuono,Entire home/apt,68,16.56,23.88,38.58,True
+Scicli,Private room,66,30.5,44.7,57.9,True
+Monreale,Private room,65,29.0,43.36,56.5,True
+Termini Imerese,Entire home/apt,65,21.38,31.38,42.5,True
+Castelmola,Entire home/apt,64,32.06,53.77,75.89,True
+Cinisi,Private room,64,30.6,39.51,50.7,True
+Linguaglossa,Entire home/apt,63,16.58,26.0,44.25,True
+Porto Empedocle,Private room,63,34.62,48.45,56.02,True
+Mascalucia,Entire home/apt,62,26.0,35.32,55.73,True
+Rosolini,Entire home/apt,61,22.81,31.33,61.4,True
+Siculiana,Entire home/apt,60,23.98,32.3,53.29,True
+Oliveri,Entire home/apt,59,21.23,28.67,36.82,True
+Erice,Private room,59,27.72,42.0,53.06,True
+Favara,Private room,58,28.81,34.24,48.75,True
+Santa Venerina,Entire home/apt,57,30.62,40.0,55.0,True
+Collesano,Entire home/apt,56,22.06,38.83,66.09,True
+Mazara del Vallo,Private room,56,21.31,28.38,42.22,True
+Caronia,Entire home/apt,56,22.97,28.83,44.28,True
+Viagrande,Entire home/apt,56,24.81,35.96,70.48,True
+Tusa,Entire home/apt,55,25.17,40.5,58.75,True
+Capo d'Orlando,Private room,55,45.0,58.42,68.66,True
+Piazza Armerina,Entire home/apt,54,16.86,22.8,29.75,True
+Realmonte,Private room,53,26.63,34.24,47.93,True
+Augusta,Private room,53,33.0,40.0,48.5,True
+Sant'Agata di Militello,Entire home/apt,53,18.8,26.9,34.33,True
+Enna,Private room,53,18.75,28.6,36.0,True
+Gela,Private room,52,25.78,37.54,55.48,True
+Floridia,Entire home/apt,52,21.44,31.23,44.16,True
+Aci Catena,Entire home/apt,51,22.03,27.1,41.51,True
+Alcamo,Private room,51,23.25,34.65,52.1,True
+Santo Stefano di Camastra,Entire home/apt,51,15.25,25.5,34.33,True
+Aci Castello,Private room,51,25.91,32.5,47.36,True
+Palma di Montechiaro,Entire home/apt,50,23.72,29.54,45.14,True
+Campofelice di Roccella,Private room,49,25.4,35.0,42.33,True
+Chiaramonte Gulfi,Entire home/apt,48,22.89,40.42,79.18,True
+Roccalumera,Entire home/apt,47,17.92,23.16,31.66,True
+Castiglione di Sicilia,Entire home/apt,46,19.45,38.71,61.81,True
+Campobello di Mazara,Entire home/apt,46,22.74,32.64,40.28,True
+Terme Vigliatore,Entire home/apt,45,24.0,44.43,64.8,True
+Pedara,Entire home/apt,45,21.45,33.6,45.4,True
+Bagheria,Private room,44,28.2,36.16,43.14,True
+Forza d'Agr,Entire home/apt,44,18.64,24.96,33.29,True
+Motta Camastra,Entire home/apt,44,21.67,30.6,43.4,True
+Belpasso,Entire home/apt,44,17.78,27.82,38.48,True
+Solarino,Entire home/apt,43,18.74,21.89,33.76,True
+Petrosino,Entire home/apt,43,15.88,25.14,33.15,True
+Valderice,Private room,42,23.15,34.24,44.81,True
+Salemi,Entire home/apt,42,18.97,30.95,50.31,True
+Calatafimi-Segesta,Entire home/apt,42,13.66,17.4,28.6,True
+Giarre,Private room,42,19.45,33.95,63.9,True
+Custonaci,Private room,41,27.68,35.0,43.36,True
+Pozzallo,Private room,41,44.0,61.0,75.0,True
+Leni,Entire home/apt,41,24.48,35.0,52.7,True
+Lampedusa e Linosa,Private room,40,55.2,86.17,119.14,True
+Buseto Palizzolo,Entire home/apt,40,25.26,36.43,60.16,True
+Comiso,Entire home/apt,40,17.14,24.56,35.38,True
+Acquedolci,Entire home/apt,39,23.56,40.53,63.24,True
+Enna,Entire home/apt,39,12.53,21.1,31.62,True
+Palma di Montechiaro,Private room,39,26.4,31.62,48.0,True
+Montallegro,Entire home/apt,38,23.5,38.36,64.07,True
+Castelbuono,Private room,38,24.22,29.67,40.0,True
+Carlentini,Entire home/apt,36,29.08,43.31,60.31,True
+Caltanissetta,Entire home/apt,36,14.89,25.69,35.12,True
+Lascari,Private room,36,28.12,41.0,54.3,True
+Mascalucia,Private room,36,28.79,52.17,76.34,True
+Ragalna,Entire home/apt,36,17.07,24.6,45.27,True
+Torrenova,Entire home/apt,36,21.25,29.02,39.24,True
+Caltanissetta,Private room,35,20.04,31.5,36.12,True
+Sambuca di Sicilia,Entire home/apt,35,15.08,23.8,29.05,True
+Milo,Entire home/apt,35,32.33,38.67,49.5,True
+Cattolica Eraclea,Entire home/apt,34,23.07,40.75,55.69,True
+Castelvetrano,Private room,34,28.55,35.78,49.5,True
+Aci Sant'Antonio,Entire home/apt,33,21.97,41.5,58.8,True
+Polizzi Generosa,Entire home/apt,33,38.4,46.11,59.92,True
+Nicolosi,Private room,33,21.84,31.0,60.0,True
+Paceco,Private room,32,24.09,32.26,42.4,True
+Paceco,Entire home/apt,32,22.26,29.87,70.78,True
+Favara,Entire home/apt,32,21.46,30.53,42.62,True
+Falcone,Entire home/apt,32,21.49,25.27,34.86,True
+Trecastagni,Private room,32,26.69,33.86,57.82,True
+Balestrate,Private room,32,31.01,48.25,65.49,True
+Vittoria,Private room,32,23.17,31.31,53.53,True
+Patti,Private room,32,25.84,36.2,49.42,True
+Misterbianco,Private room,31,30.0,34.5,47.0,True
+Portopalo di Capo Passero,Private room,31,24.95,39.82,59.28,True
+Mazzarino,Entire home/apt,31,26.47,45.78,53.36,True
+Canicatt,Private room,31,16.74,25.68,30.25,True
+Palermo,Shared room,31,30.0,30.0,30.0,True
+San Gregorio di Catania,Entire home/apt,30,24.84,35.64,40.12,True
+Naso,Entire home/apt,30,18.18,35.42,62.91,True
+Chiaramonte Gulfi,Private room,30,19.54,27.98,62.76,True
+Randazzo,Private room,30,23.93,45.82,52.62,True
+Santa Marina Salina,Private room,30,61.32,81.96,132.8,True
+Partanna,Entire home/apt,29,15.5,25.0,40.05,True
+Zafferana Etnea,Private room,29,19.17,33.8,45.5,True
+Mascali,Private room,29,25.62,32.33,43.0,True
+Partinico,Private room,28,28.72,50.0,55.58,True
+Gangi,Private room,28,15.67,24.93,34.24,True
+Letojanni,Private room,27,14.5,22.33,37.2,True
+Termini Imerese,Private room,27,24.92,36.52,61.5,True
+Barcellona Pozzo di Gotto,Entire home/apt,27,15.53,20.98,32.23,True
+Spadafora,Entire home/apt,27,17.12,25.11,30.38,True
+Patern,Entire home/apt,27,17.26,21.25,33.31,True
+Randazzo,Entire home/apt,26,15.57,36.5,55.32,True
+Sambuca di Sicilia,Private room,26,17.12,25.44,31.58,True
+Santa Flavia,Private room,26,39.0,42.25,47.5,True
+Torretta,Entire home/apt,26,25.72,28.51,41.17,True
+Caccamo,Entire home/apt,26,17.85,28.12,39.92,True
+Siculiana,Private room,26,28.44,45.75,67.5,True
+Castiglione di Sicilia,Private room,26,29.88,36.0,47.56,True
+Canicattini Bagni,Entire home/apt,26,13.29,22.54,29.83,True
+Francavilla di Sicilia,Entire home/apt,26,13.35,19.76,32.16,True
+Savoca,Entire home/apt,25,24.8,37.2,85.6,True
+Misterbianco,Entire home/apt,25,21.88,25.4,29.29,True
+Bronte,Entire home/apt,25,17.0,27.4,43.65,True
+Sant'Alfio,Entire home/apt,25,24.17,29.25,44.17,True
+Linguaglossa,Private room,25,20.0,37.5,45.64,True
+Sant'Agata di Militello,Private room,25,36.0,37.25,43.25,True
+Palermo,Hotel room,25,29.33,37.09,42.5,True
+Riposto,Private room,25,25.68,34.25,51.36,True
+Naro,Entire home/apt,24,9.03,15.88,20.05,True
+Nizza di Sicilia,Entire home/apt,24,21.6,27.83,37.2,True
+Malfa,Private room,24,54.23,82.8,104.67,True
+Ispica,Private room,24,41.43,53.67,69.33,True
+Isola delle Femmine,Private room,24,24.34,44.75,55.96,True
+Reitano,Entire home/apt,23,27.22,40.5,59.5,True
+Trabia,Private room,23,31.5,34.5,42.18,True
+Ficarazzi,Entire home/apt,23,22.6,26.92,41.25,True
+Racalmuto,Entire home/apt,23,14.38,23.92,36.07,True
+Ragalna,Private room,23,39.25,43.0,60.75,True
+Torregrotta,Entire home/apt,23,14.19,30.14,57.92,True
+Brolo,Entire home/apt,23,18.89,30.58,38.38,True
+Gioiosa Marea,Private room,22,29.8,40.72,48.82,True
+Graniti,Entire home/apt,22,17.21,23.35,33.51,True
+Barcellona Pozzo di Gotto,Private room,21,16.0,23.93,36.2,True
+San Giovanni la Punta,Entire home/apt,21,23.74,31.5,55.95,True
+San Cataldo,Entire home/apt,21,12.6,15.0,32.67,True
+Santa Croce Camerina,Private room,21,40.0,46.5,97.5,True
+Furci Siculo,Entire home/apt,21,28.16,29.25,39.25,True
+Gratteri,Entire home/apt,21,31.5,47.33,72.14,True
+Licata,Private room,21,25.03,35.0,39.82,True
+Canicatt,Entire home/apt,21,14.5,18.58,20.0,True
+Rosolini,Private room,20,17.06,22.6,33.93,True
+Belpasso,Private room,20,19.55,27.14,39.94,True
+Castelmola,Private room,20,37.34,48.25,63.25,True
+Ficarra,Private room,20,51.5,63.1,94.5,True
+Gaggi,Entire home/apt,20,17.28,25.04,54.56,True
+Melilli,Entire home/apt,19,26.21,36.04,97.59,False
+Palazzolo Acreide,Private room,19,40.0,56.5,64.27,False
+Agira,Private room,18,26.97,35.42,69.38,False
+Butera,Entire home/apt,18,21.87,28.27,32.44,False
+Petralia Sottana,Entire home/apt,18,30.38,37.0,54.22,False
+Valverde,Entire home/apt,18,19.81,32.17,51.18,False
+Gravina di Catania,Entire home/apt,17,15.75,18.25,32.2,False
+Salemi,Private room,17,23.5,31.38,41.0,False
+San Marco d'Alunzio,Entire home/apt,17,15.48,19.5,32.25,False
+Capri Leone,Entire home/apt,17,23.0,31.57,40.75,False
+Caltabellotta,Entire home/apt,17,21.0,25.5,36.24,False
+Aragona,Entire home/apt,17,17.12,26.88,48.33,False
+Santo Stefano di Camastra,Private room,17,16.35,23.33,29.0,False
+Pedara,Private room,16,18.98,26.71,39.12,False
+Borgetto,Entire home/apt,16,33.79,42.63,52.17,False
+Joppolo Giancaxio,Entire home/apt,16,18.75,20.75,27.25,False
+Villafranca Tirrena,Entire home/apt,16,13.23,27.68,35.33,False
+Adrano,Entire home/apt,16,14.2,22.42,27.88,False
+Adrano,Private room,16,20.27,24.75,37.5,False
+San Marco d'Alunzio,Private room,15,15.89,33.75,36.8,False
+Menfi,Private room,15,41.92,58.67,73.5,False
+Butera,Private room,15,17.75,30.2,34.5,False
+Petrosino,Private room,15,16.36,42.0,53.16,False
+Sant'Alfio,Private room,15,30.0,40.0,57.5,False
+Cammarata,Entire home/apt,15,15.85,20.67,38.0,False
+Venetico,Entire home/apt,15,17.12,20.0,26.6,False
+Sortino,Entire home/apt,15,13.67,24.67,59.39,False
+Santa Maria di Licodia,Private room,15,31.25,41.67,51.04,False
+Pantelleria,Private room,15,63.38,78.42,96.5,False
+Rod Milici,Entire home/apt,15,15.71,27.06,33.68,False
+Rometta,Entire home/apt,15,16.35,20.2,26.01,False
+Ficarra,Entire home/apt,15,8.75,14.01,31.29,False
+Aci Sant'Antonio,Private room,14,28.45,29.15,46.11,False
+Isnello,Entire home/apt,14,14.39,31.93,44.0,False
+Lentini,Entire home/apt,14,22.2,33.31,49.12,False
+Caccamo,Private room,14,23.83,32.0,44.74,False
+Calatabiano,Private room,14,19.68,29.21,39.54,False
+Santa Maria di Licodia,Entire home/apt,14,19.1,31.47,37.89,False
+Castronovo di Sicilia,Private room,14,12.53,24.5,28.94,False
+Maletto,Entire home/apt,14,16.75,21.2,29.35,False
+San Mauro Castelverde,Entire home/apt,13,11.5,17.0,25.8,False
+Lentini,Private room,13,15.2,24.9,39.37,False
+Comiso,Private room,13,20.84,39.94,59.5,False
+Pietraperzia,Entire home/apt,13,19.29,29.28,46.52,False
+Polizzi Generosa,Private room,13,12.91,25.33,41.0,False
+Grammichele,Entire home/apt,13,14.75,18.69,28.75,False
+Campobello di Licata,Private room,13,26.67,41.0,64.0,False
+Sortino,Private room,13,16.55,22.06,25.0,False
+Mistretta,Entire home/apt,13,11.09,21.0,39.0,False
+Mussomeli,Entire home/apt,13,9.58,15.27,22.5,False
+Nicosia,Private room,12,25.54,32.5,35.53,False
+San Filippo del Mela,Entire home/apt,12,12.12,21.14,32.04,False
+Milo,Private room,12,28.53,32.78,34.71,False
+Messina,Hotel room,12,38.56,62.58,97.93,False
+Corleone,Private room,12,12.62,22.25,88.5,False
+Leonforte,Entire home/apt,12,18.44,21.25,26.21,False
+Petralia Soprana,Entire home/apt,12,15.96,21.17,32.12,False
+Agira,Entire home/apt,12,13.75,21.66,49.0,False
+Mazzarino,Private room,12,22.4,30.0,45.0,False
+Biancavilla,Entire home/apt,12,11.63,18.04,22.3,False
+Corleone,Entire home/apt,12,8.09,20.52,29.14,False
+Collesano,Private room,11,9.24,27.5,52.42,False
+Tremestieri Etneo,Entire home/apt,11,22.71,36.0,49.56,False
+Piedimonte Etneo,Private room,11,26.86,31.0,54.88,False
+Partanna,Private room,11,22.75,31.0,34.75,False
+Caltabellotta,Private room,11,29.83,37.66,39.11,False
+Ragusa,Hotel room,11,32.92,39.0,45.5,False
+Nicosia,Entire home/apt,11,19.62,26.5,37.5,False
+Aragona,Private room,11,19.96,41.0,57.5,False
+Santa Margherita di Belice,Entire home/apt,11,15.83,17.51,28.34,False
+Marsala,Hotel room,11,34.36,40.51,45.76,False
+Altavilla Milicia,Private room,11,29.8,76.0,90.0,False
+Montalbano Elicona,Entire home/apt,11,20.25,25.11,35.0,False
+Melilli,Private room,11,33.47,34.24,47.93,False
+Sant'Angelo di Brolo,Private room,11,23.2,34.74,41.17,False
+Campobello di Licata,Entire home/apt,10,10.81,15.67,26.12,False
+Santa Venerina,Private room,10,31.25,56.54,76.52,False
+Motta d'Affermo,Entire home/apt,10,38.6,53.0,79.71,False
+Niscemi,Entire home/apt,10,15.89,19.5,25.62,False
+Barrafranca,Entire home/apt,10,23.04,26.17,30.97,False
+Mirto,Entire home/apt,10,16.19,22.65,25.41,False
+Bompietro,Private room,10,31.17,35.08,39.0,False
+Naso,Private room,10,28.79,37.36,47.95,False
+Ravanusa,Entire home/apt,10,14.59,21.56,35.4,False
+Racalmuto,Private room,10,27.83,40.14,102.5,False
+San Pietro Clarenza,Entire home/apt,10,41.95,54.6,61.69,False
+Giardini-Naxos,Hotel room,10,40.83,49.43,54.17,False
+Viagrande,Private room,10,27.2,31.58,38.02,False
+Pietraperzia,Private room,10,14.27,44.5,47.29,False
+Giarratana,Entire home/apt,10,38.18,51.07,69.27,False
+Acquedolci,Private room,9,42.08,43.07,57.25,False
+Gangi,Entire home/apt,9,13.7,22.75,38.72,False
+Al Terme,Entire home/apt,9,19.45,20.56,33.13,False
+Villabate,Entire home/apt,9,25.34,27.0,33.0,False
+San Cataldo,Private room,9,17.67,31.96,42.0,False
+Malvagna,Private room,9,22.82,22.82,23.16,False
+Cianciana,Entire home/apt,9,19.93,20.55,32.56,False
+Ferla,Entire home/apt,9,16.77,25.33,31.5,False
+San Giovanni Gemini,Entire home/apt,9,19.33,22.0,27.75,False
+Misilmeri,Entire home/apt,9,21.2,28.54,41.08,False
+Buscemi,Entire home/apt,9,23.1,41.22,49.52,False
+Monforte San Giorgio,Entire home/apt,9,16.07,18.5,22.62,False
+Bronte,Private room,9,33.75,40.0,44.0,False
+Mussomeli,Private room,9,25.0,45.0,50.0,False
+Carlentini,Private room,9,30.83,37.55,48.0,False
+Santa Teresa di Riva,Private room,9,26.67,35.75,43.0,False
+Lipari,Hotel room,9,45.0,50.17,82.5,False
+Furnari,Private room,9,23.75,25.68,28.75,False
+Grammichele,Private room,9,5.29,25.07,43.94,False
+Acquaviva Platani,Private room,9,11.39,16.75,27.46,False
+Solarino,Private room,9,11.5,11.75,21.28,False
+Casteldaccia,Private room,9,25.25,31.5,33.66,False
+Castellammare del Golfo,Hotel room,9,36.67,55.0,62.0,False
+Poggioreale,Private room,8,28.96,31.14,35.32,False
+Petralia Soprana,Private room,8,26.48,36.0,42.85,False
+Roccalumera,Private room,8,13.58,20.34,33.28,False
+Grotte,Entire home/apt,8,8.88,9.91,16.73,False
+Gaggi,Private room,8,71.38,78.0,78.25,False
+Tremestieri Etneo,Private room,8,34.25,40.0,43.17,False
+Aidone,Private room,8,27.68,45.65,48.61,False
+Pace del Mela,Entire home/apt,8,17.25,19.5,28.27,False
+Sant'Angelo di Brolo,Entire home/apt,8,12.8,28.06,33.3,False
+Sant'Agata li Battiati,Entire home/apt,8,23.7,41.38,54.83,False
+Novara di Sicilia,Entire home/apt,8,16.29,18.45,28.21,False
+Motta Sant'Anastasia,Entire home/apt,8,19.5,21.49,41.73,False
+Avola,Hotel room,8,43.75,50.58,60.0,False
+Mirabella Imbaccari,Entire home/apt,8,16.86,20.5,29.37,False
+Monterosso Almo,Entire home/apt,8,37.84,55.04,66.08,False
+Mineo,Entire home/apt,8,18.75,20.08,22.56,False
+Montelepre,Entire home/apt,8,14.95,17.27,22.27,False
+Acate,Entire home/apt,8,10.17,20.88,28.36,False
+Aci Bonaccorsi,Entire home/apt,7,19.88,27.12,31.04,False
+Niscemi,Private room,7,26.83,36.0,37.75,False
+Leni,Private room,7,31.56,48.5,55.75,False
+Siracusa,Hotel room,7,37.25,40.85,60.75,False
+Calatafimi-Segesta,Private room,7,20.07,26.33,30.0,False
+Biancavilla,Private room,7,22.4,30.43,40.91,False
+Ficarazzi,Private room,7,22.6,26.67,37.5,False
+Santa Ninfa,Entire home/apt,7,14.17,16.0,28.51,False
+Fiumefreddo di Sicilia,Private room,7,24.94,25.67,28.5,False
+Prizzi,Private room,7,6.28,14.0,52.7,False
+Montalbano Elicona,Private room,7,5.46,46.43,63.76,False
+Aidone,Entire home/apt,7,36.03,49.61,57.62,False
+San Piero Patti,Entire home/apt,7,19.29,25.4,37.33,False
+Castellana Sicula,Entire home/apt,7,20.8,21.0,21.0,False
+Santa Cristina Gela,Private room,7,54.17,61.0,67.5,False
+San Giovanni Gemini,Private room,7,13.2,17.67,22.08,False
+Sant'Alessio Siculo,Private room,7,27.66,31.0,51.42,False
+Montevago,Entire home/apt,7,29.33,33.5,48.04,False
+Cattolica Eraclea,Private room,7,63.19,108.5,119.84,False
+Centuripe,Entire home/apt,7,22.72,46.5,56.32,False
+Cammarata,Private room,7,18.75,20.0,32.7,False
+Francavilla di Sicilia,Private room,7,2.6,21.4,42.12,False
+Savoca,Private room,7,27.29,31.25,49.43,False
+Scaletta Zanclea,Entire home/apt,7,22.62,26.08,39.98,False
+Scillato,Private room,7,20.38,20.92,26.3,False
+Pettineo,Entire home/apt,7,17.67,30.5,55.5,False
+Alia,Entire home/apt,6,57.7,59.78,68.79,False
+Tortorici,Entire home/apt,6,18.68,21.58,23.61,False
+Alia,Private room,6,53.0,53.0,68.0,False
+Militello in Val di Catania,Entire home/apt,6,15.38,22.88,40.73,False
+Patern,Private room,6,16.43,24.59,35.31,False
+Petralia Sottana,Private room,6,22.85,24.38,31.44,False
+Gibellina,Entire home/apt,6,11.11,17.52,23.24,False
+Gallodoro,Private room,6,21.02,24.5,28.92,False
+Santo Stefano Quisquina,Private room,6,17.25,17.34,23.62,False
+Ramacca,Private room,6,47.2,50.87,69.94,False
+Campobello di Mazara,Private room,6,23.1,30.13,38.18,False
+Capaci,Private room,6,29.71,37.67,50.62,False
+Rometta,Private room,6,22.84,27.62,42.39,False
+Roccapalumba,Entire home/apt,6,47.56,52.0,52.5,False
+San Michele di Ganzaria,Entire home/apt,6,28.73,32.43,35.92,False
+Santa Elisabetta,Entire home/apt,6,18.47,23.38,24.51,False
+Trapani,Hotel room,6,14.25,18.29,71.96,False
+Antillo,Entire home/apt,6,9.01,15.15,17.54,False
+Trappeto,Private room,6,33.01,48.62,51.5,False
+Aci Bonaccorsi,Private room,6,18.61,22.99,25.79,False
+Sinagra,Entire home/apt,6,12.79,13.37,18.03,False
+Pagliara,Entire home/apt,6,11.83,14.09,21.47,False
+Marineo,Private room,6,14.9,24.83,29.67,False
+Siracusa,Shared room,6,27.5,29.0,30.5,False
+Calamonaci,Entire home/apt,6,11.23,14.75,16.2,False
+Buseto Palizzolo,Private room,6,49.62,53.55,58.78,False
+Cassaro,Private room,6,36.17,38.33,40.0,False
+Mirabella Imbaccari,Private room,6,38.23,38.28,48.21,False
+Ustica,Private room,6,64.38,68.5,68.5,False
+Santa Caterina Villarmosa,Entire home/apt,6,9.25,16.85,19.49,False
+San Vito Lo Capo,Hotel room,6,74.44,82.38,97.25,False
+Valdina,Entire home/apt,6,19.33,31.42,33.98,False
+Pettineo,Private room,5,33.18,59.74,60.76,False
+Itala,Entire home/apt,5,19.17,23.75,43.5,False
+Bivona,Entire home/apt,5,11.5,14.5,27.33,False
+Sperlinga,Entire home/apt,5,16.0,16.61,18.67,False
+Sommatino,Private room,5,27.95,33.2,34.84,False
+Naro,Private room,5,39.6,40.0,44.4,False
+Acate,Private room,5,31.9,36.52,41.33,False
+Assoro,Private room,5,12.39,46.42,50.35,False
+Librizzi,Entire home/apt,5,34.33,36.53,37.07,False
+Lercara Friddi,Entire home/apt,5,35.5,53.0,76.4,False
+Sant'Agata li Battiati,Private room,5,67.5,67.5,67.5,False
+San Giovanni la Punta,Private room,5,9.78,34.09,39.19,False
+Santa Elisabetta,Private room,5,22.82,25.0,25.36,False
+Cerami,Private room,5,31.26,40.88,40.93,False
+Valguarnera Caropepe,Entire home/apt,5,23.33,29.6,35.47,False
+Alcara li Fusi,Entire home/apt,5,10.65,10.65,11.75,False
+Catenanuova,Private room,5,16.59,39.82,39.82,False
+Santa Croce Camerina,Hotel room,5,48.33,57.25,72.5,False
+Castroreale,Entire home/apt,5,14.9,17.04,40.0,False
+San Giuseppe Jato,Private room,5,22.2,30.06,33.3,False
+Galati Mamertino,Entire home/apt,5,12.88,16.9,28.53,False
+Gallodoro,Entire home/apt,5,16.75,31.94,43.25,False
+Vita,Entire home/apt,5,7.24,19.17,42.81,False
+Fiumedinisi,Entire home/apt,5,9.17,11.8,13.75,False
+Saponara,Entire home/apt,5,21.9,35.75,48.5,False
+Geraci Siculo,Private room,5,17.5,22.51,27.66,False
+Gratteri,Private room,5,40.67,55.33,60.0,False
+Prizzi,Entire home/apt,5,16.59,16.77,58.0,False
+Longi,Private room,4,3.0,3.4,3.96,False
+Bolognetta,Entire home/apt,4,14.77,19.39,26.52,False
+Brolo,Private room,4,25.88,42.35,70.59,False
+Calascibetta,Entire home/apt,4,9.92,14.38,19.44,False
+Sommatino,Entire home/apt,4,17.88,20.12,21.98,False
+Sperlinga,Private room,4,21.7,26.25,27.12,False
+Oliveri,Private room,4,44.3,45.18,49.28,False
+Trapani,Shared room,4,4.82,21.67,38.25,False
+San Giuseppe Jato,Entire home/apt,4,48.38,73.64,93.42,False
+Villarosa,Private room,4,18.8,25.33,33.44,False
+Tusa,Private room,4,39.56,46.38,49.92,False
+Ucria,Private room,4,48.54,58.48,60.18,False
+San Pier Niceto,Entire home/apt,4,22.63,23.56,34.5,False
+Tripi,Entire home/apt,4,11.13,16.78,25.26,False
+Troina,Private room,4,9.01,11.72,15.52,False
+Alcamo,Hotel room,4,49.5,61.83,74.12,False
+Zafferana Etnea,Hotel room,4,24.96,25.82,29.68,False
+San Filippo del Mela,Private room,4,10.81,14.81,27.02,False
+Castrofilippo,Entire home/apt,4,9.5,13.01,15.5,False
+Castronovo di Sicilia,Entire home/apt,4,19.58,30.19,47.92,False
+Castrofilippo,Private room,4,12.36,16.74,22.94,False
+Castellana Sicula,Private room,4,22.8,25.65,28.5,False
+Santa Lucia del Mela,Entire home/apt,4,21.38,27.96,37.56,False
+Riesi,Entire home/apt,4,23.63,26.55,30.41,False
+Santa Ninfa,Private room,4,13.03,16.39,38.75,False
+Capri Leone,Private room,4,22.5,33.75,45.0,False
+Ciminna,Entire home/apt,4,18.22,18.83,38.58,False
+Licodia Eubea,Private room,4,36.25,40.75,45.25,False
+Militello Rosmarino,Entire home/apt,4,17.19,18.42,20.98,False
+Terrasini,Hotel room,4,50.43,59.91,59.93,False
+Mistretta,Private room,4,6.59,27.48,48.0,False
+Monforte San Giorgio,Private room,4,28.68,32.46,39.0,False
+Delia,Entire home/apt,4,6.62,8.02,9.17,False
+Roccavaldina,Private room,4,52.5,66.0,76.0,False
+Priolo Gargallo,Entire home/apt,4,22.98,30.65,35.12,False
+Gibellina,Private room,4,32.64,36.22,37.43,False
+Geraci Siculo,Entire home/apt,4,7.84,25.75,48.88,False
+Giarratana,Private room,4,45.83,48.33,51.25,False
+Falcone,Private room,4,38.29,51.17,71.38,False
+Porto Empedocle,Hotel room,4,27.02,27.14,45.4,False
+Campofranco,Entire home/apt,4,11.31,11.53,13.54,False
+Piana degli Albanesi,Private room,3,38.0,42.0,44.94,False
+Palazzo Adriano,Private room,3,10.25,15.0,19.17,False
+Buccheri,Private room,3,20.54,35.0,38.5,False
+Grotte,Private room,3,13.75,16.0,18.75,False
+Bisacquino,Entire home/apt,3,11.47,17.95,19.42,False
+Gravina di Catania,Private room,3,25.0,29.0,30.31,False
+Leonforte,Private room,3,5.66,5.79,10.8,False
+Borgetto,Private room,3,76.08,76.33,78.67,False
+Assoro,Entire home/apt,3,34.38,40.0,118.92,False
+Valguarnera Caropepe,Private room,3,31.83,34.67,37.08,False
+Acquaviva Platani,Entire home/apt,3,5.8,10.79,14.38,False
+Milazzo,Hotel room,3,29.49,35.0,36.25,False
+Altofonte,Entire home/apt,3,25.78,28.57,28.69,False
+Motta Camastra,Shared room,3,49.83,51.0,63.75,False
+Menfi,Hotel room,3,48.27,51.33,61.42,False
+Antillo,Private room,3,19.75,21.42,23.71,False
+Valledolmo,Entire home/apt,3,14.75,18.0,18.17,False
+Aci Catena,Private room,3,14.47,18.8,24.26,False
+Buccheri,Entire home/apt,3,18.96,25.75,30.46,False
+Sciacca,Hotel room,3,51.62,53.25,62.62,False
+Scicli,Hotel room,3,47.25,51.5,51.5,False
+Giuliana,Entire home/apt,3,15.42,24.6,56.97,False
+Scordia,Private room,3,15.5,17.33,18.29,False
+Raccuja,Entire home/apt,3,10.45,11.74,19.73,False
+Pollina,Private room,3,25.66,35.77,44.14,False
+Scillato,Entire home/apt,3,13.06,18.62,19.21,False
+Sclafani Bagni,Private room,3,30.74,56.5,56.5,False
+Serradifalco,Entire home/apt,3,7.99,11.83,21.9,False
+Santo Stefano Quisquina,Entire home/apt,3,14.81,25.56,47.93,False
+Caltavuturo,Entire home/apt,3,13.41,19.67,49.67,False
+Capizzi,Private room,3,24.5,35.97,36.55,False
+Roccavaldina,Entire home/apt,3,17.51,28.05,31.44,False
+Cerda,Entire home/apt,3,8.42,8.67,29.22,False
+Condr,Entire home/apt,3,33.48,45.25,67.05,False
+Regalbuto,Entire home/apt,3,23.88,24.25,34.62,False
+Condr,Private room,3,10.3,12.3,15.14,False
+Reitano,Private room,3,32.35,34.98,42.38,False
+Custonaci,Hotel room,3,31.38,34.24,34.49,False
+Contessa Entellina,Entire home/apt,3,49.52,58.6,181.64,False
+Campofiorito,Private room,3,33.87,34.26,42.8,False
+Campofiorito,Entire home/apt,3,21.59,30.2,33.45,False
+Santa Margherita di Belice,Private room,3,35.67,47.0,86.5,False
+Raffadali,Entire home/apt,3,18.91,23.5,34.28,False
+Caltavuturo,Private room,3,6.38,8.33,16.06,False
+Camastra,Entire home/apt,3,13.48,13.7,39.35,False
+Roccamena,Entire home/apt,3,27.9,28.62,34.31,False
+Castell'Umberto,Entire home/apt,3,15.83,19.06,20.16,False
+Castelmola,Hotel room,3,85.0,92.5,96.25,False
+San Cono,Entire home/apt,3,32.46,35.67,39.58,False
+San Cipirello,Entire home/apt,3,29.38,44.5,47.09,False
+San Fratello,Private room,3,27.83,29.0,32.5,False
+San Fratello,Entire home/apt,3,23.25,26.5,41.02,False
+Salaparuta,Entire home/apt,3,13.47,13.62,13.68,False
+Casalvecchio Siculo,Entire home/apt,3,34.65,36.0,44.68,False
+San Gregorio di Catania,Private room,3,28.8,29.06,30.03,False
+Castel di Iudica,Entire home/apt,3,15.0,17.5,22.5,False
+Catania,Hotel room,3,20.69,20.72,29.36,False
+Castroreale,Private room,3,34.58,34.83,43.17,False
+Catania,Shared room,3,4.38,6.25,17.79,False
+Agrigento,Hotel room,3,35.76,43.0,43.19,False
+Montallegro,Private room,3,30.88,55.67,69.58,False
+Montagnareale,Entire home/apt,3,19.25,20.79,21.21,False
+Vizzini,Entire home/apt,3,17.73,28.6,35.37,False
+Vita,Private room,2,12.21,14.58,16.96,False
+Tripi,Private room,2,22.79,23.08,23.37,False
+Motta Camastra,Private room,2,51.88,66.25,80.62,False
+Montelepre,Private room,2,13.85,16.54,19.24,False
+Catenanuova,Entire home/apt,2,51.57,89.6,127.64,False
+Al,Entire home/apt,2,36.12,43.25,50.38,False
+Agira,Hotel room,2,33.47,34.19,34.91,False
+Ucria,Entire home/apt,2,20.94,21.62,22.31,False
+Cerami,Entire home/apt,2,21.06,22.6,24.13,False
+Cefal,Hotel room,2,88.56,98.38,108.19,False
+San Vito Lo Capo,Shared room,2,41.52,44.04,46.56,False
+Casteltermini,Private room,2,39.62,39.75,39.88,False
+San Salvatore di Fitalia,Entire home/apt,2,19.66,19.98,20.3,False
+San Pietro Clarenza,Private room,2,12.09,12.9,13.7,False
+San Piero Patti,Private room,2,14.84,15.98,17.12,False
+San Pier Niceto,Private room,2,18.6,33.84,49.09,False
+Castel di Lucio,Entire home/apt,2,39.26,40.69,42.13,False
+Santa Caterina Villarmosa,Private room,2,33.2,35.41,37.62,False
+Santa Cristina Gela,Entire home/apt,2,17.37,18.73,20.1,False
+Ramacca,Entire home/apt,2,38.59,72.12,105.65,False
+Erice,Hotel room,2,55.25,74.5,93.75,False
+Favignana,Hotel room,2,127.5,141.0,154.5,False
+Furci Siculo,Private room,2,43.14,44.59,46.05,False
+Forza d'Agr,Private room,2,50.56,52.62,54.69,False
+Regalbuto,Private room,2,14.69,20.62,26.56,False
+Canicattini Bagni,Private room,2,30.25,31.95,33.64,False
+Floridia,Private room,2,57.5,57.5,57.5,False
+Comitini,Private room,2,32.54,32.85,33.16,False
+Roccella Valdemone,Entire home/apt,2,26.99,27.98,28.97,False
+Contessa Entellina,Private room,2,28.71,28.75,28.79,False
+Cesar,Entire home/apt,2,33.27,35.04,36.82,False
+Chiusa Sclafani,Entire home/apt,2,62.99,68.6,74.21,False
+Nissoria,Entire home/apt,2,13.48,15.13,16.79,False
+Taormina,Hotel room,2,58.72,77.65,96.58,False
+Pace del Mela,Private room,2,84.62,97.75,110.88,False
+Nissoria,Private room,2,17.37,18.39,19.41,False
+Spadafora,Private room,2,60.01,60.28,60.55,False
+Palazzo Adriano,Entire home/apt,2,24.92,27.17,29.42,False
+Bolognetta,Private room,2,62.48,62.77,63.06,False
+Barrafranca,Private room,2,20.43,21.29,22.14,False
+Giuliana,Private room,2,43.33,46.67,50.0,False
+Alimena,Entire home/apt,2,21.31,21.62,21.94,False
+Torrenova,Private room,2,24.25,27.5,30.75,False
+Milena,Private room,2,3.67,4.08,4.48,False
+Motta Sant'Anastasia,Private room,2,18.08,26.22,34.36,False
+Misilmeri,Private room,2,24.51,35.51,46.52,False
+Longi,Entire home/apt,2,7.88,9.89,11.9,False
+Maniace,Entire home/apt,2,14.04,16.86,19.68,False
+Burgio,Entire home/apt,2,12.92,14.55,16.17,False
+Petralia Sottana,Hotel room,2,42.5,53.33,64.17,False
+Piana degli Albanesi,Entire home/apt,2,26.26,29.34,32.42,False
+Godrano,Entire home/apt,2,12.97,14.52,16.07,False
+Serradifalco,Private room,2,45.91,46.18,46.45,False
+Butera,Shared room,2,9.75,9.75,9.75,False
+Scordia,Entire home/apt,2,32.47,41.94,51.4,False
+Cassaro,Entire home/apt,1,34.28,34.28,34.28,False
+Montemaggiore Belsito,Private room,1,4.4,4.4,4.4,False
+Santa Cristina Gela,Shared room,1,5.83,5.83,5.83,False
+San Biagio Platani,Entire home/apt,1,50.31,50.31,50.31,False
+San Gregorio di Catania,Hotel room,1,29.25,29.25,29.25,False
+Salaparuta,Private room,1,11.5,11.5,11.5,False
+Sant'Angelo Muxaro,Private room,1,4.32,4.32,4.32,False
+San Michele di Ganzaria,Private room,1,19.33,19.33,19.33,False
+San Mauro Castelverde,Private room,1,37.25,37.25,37.25,False
+Raffadali,Private room,1,9.15,9.15,9.15,False
+Francofonte,Private room,1,122.23,122.23,122.23,False
+Francofonte,Entire home/apt,1,40.11,40.11,40.11,False
+Delia,Private room,1,13.75,13.75,13.75,False
+Ribera,Hotel room,1,51.0,51.0,51.0,False
+Resuttano,Private room,1,8.08,8.08,8.08,False
+Camporeale,Entire home/apt,1,19.0,19.0,19.0,False
+Floresta,Entire home/apt,1,18.85,18.85,18.85,False
+Cesar,Private room,1,64.5,64.5,64.5,False
+Cerda,Private room,1,7.19,7.19,7.19,False
+Ribera,Private room,1,5.92,5.92,5.92,False
+Chiusa Sclafani,Private room,1,34.5,34.5,34.5,False
+Ravanusa,Private room,1,4310.79,4310.79,4310.79,False
+Ciminna,Private room,1,22.12,22.12,22.12,False
+Comitini,Entire home/apt,1,12.5,12.5,12.5,False
+Comiso,Hotel room,1,83.5,83.5,83.5,False
+Santa Domenica Vittoria,Private room,1,4.95,4.95,4.95,False
+Santa Croce Camerina,Shared room,1,7.35,7.35,7.35,False
+Riposto,Hotel room,1,26.63,26.63,26.63,False
+Al Terme,Private room,1,44.46,44.46,44.46,False
+Montedoro,Entire home/apt,1,9.87,9.87,9.87,False
+Mongiuffi Melia,Entire home/apt,1,29.25,29.25,29.25,False
+Villafrati,Entire home/apt,1,37.5,37.5,37.5,False
+Palagonia,Private room,1,32.0,32.0,32.0,False
+Patti,Shared room,1,25.11,25.11,25.11,False
+Joppolo Giancaxio,Private room,1,50.0,50.0,50.0,False
+Piazza Armerina,Hotel room,1,19.15,19.15,19.15,False
+Gagliano Castelferrato,Entire home/apt,1,18.4,18.4,18.4,False
+Santa Ninfa,Shared room,1,29.6,29.6,29.6,False
+Sciara,Entire home/apt,1,11.6,11.6,11.6,False
+Giardinello,Entire home/apt,1,22.48,22.48,22.48,False
+Priolo Gargallo,Private room,1,19.37,19.37,19.37,False
+Barcellona Pozzo di Gotto,Shared room,1,34.5,34.5,34.5,False
+Bompensiere,Entire home/apt,1,220.44,220.44,220.44,False
+Bisacquino,Private room,1,20.5,20.5,20.5,False
+Blufi,Entire home/apt,1,24.5,24.5,24.5,False
+Isnello,Private room,1,30.66,30.66,30.66,False
+Gualtieri Sicamin,Entire home/apt,1,10.68,10.68,10.68,False
+Lercara Friddi,Private room,1,25.67,25.67,25.67,False
+Licodia Eubea,Entire home/apt,1,13.83,13.83,13.83,False
+Sutera,Entire home/apt,1,12.43,12.43,12.43,False
+Palagonia,Entire home/apt,1,13.67,13.67,13.67,False
+Pantelleria,Hotel room,1,91.5,91.5,91.5,False
+Marsala,Shared room,1,52.0,52.0,52.0,False
+Mazzarino,Shared room,1,3.54,3.54,3.54,False
+Noto,Hotel room,1,49.5,49.5,49.5,False
+Belmonte Mezzagno,Entire home/apt,1,36.0,36.0,36.0,False
+Basic,Entire home/apt,1,12.49,12.49,12.49,False
+Marianopoli,Private room,1,6.57,6.57,6.57,False
+Marineo,Entire home/apt,1,11.71,11.71,11.71,False
+Limina,Private room,1,22.82,22.82,22.82,False
+Mer,Entire home/apt,1,12.28,12.28,12.28,False
+Milena,Entire home/apt,1,12.25,12.25,12.25,False
+Milazzo,Shared room,1,7.42,7.42,7.42,False
+Mezzojuso,Entire home/apt,1,27.4,27.4,27.4,False
+Taormina,Shared room,1,4.3,4.3,4.3,False
+Altofonte,Private room,1,26.4,26.4,26.4,False
+Villafranca Tirrena,Private room,1,30.41,30.41,30.41,False
+Villafranca Sicula,Entire home/apt,1,19.37,19.37,19.37,False
+Valledolmo,Private room,1,6.85,6.85,6.85,False
+Vallelunga Pratameno,Entire home/apt,1,26.25,26.25,26.25,False
+Valverde,Private room,1,20.0,20.0,20.0,False
+Venetico,Private room,1,138.0,138.0,138.0,False
+Ventimiglia di Sicilia,Entire home/apt,1,57.07,57.07,57.07,False
