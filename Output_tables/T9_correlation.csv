@@ -1,0 +1,16 @@
+scope,pair,n,spearman_rho,n_without_flagged,rho_without_flagged
+All listings,price_per_guest vs amenities_count,51864,0.053,51434,0.062
+All listings,price_per_guest vs bedrooms,44005,-0.03,43575,-0.038
+All listings,price_gap_pct vs amenities_vs_peers,44005,0.095,43575,0.11
+Entire home/apt,price_per_guest vs amenities_count,41131,0.084,40754,0.097
+Entire home/apt,price_per_guest vs bedrooms,40215,0.009,39838,0.002
+Entire home/apt,price_gap_pct vs amenities_vs_peers,40215,0.104,39838,0.119
+Hotel room,price_per_guest vs amenities_count,178,-0.105,176,-0.106
+Hotel room,price_per_guest vs bedrooms,90,0.125,88,0.039
+Hotel room,price_gap_pct vs amenities_vs_peers,90,0.076,88,0.11
+Private room,price_per_guest vs amenities_count,10495,0.022,10446,0.028
+Private room,price_per_guest vs bedrooms,3663,-0.358,3614,-0.368
+Private room,price_gap_pct vs amenities_vs_peers,3663,0.001,3614,0.018
+Shared room,price_per_guest vs amenities_count,60,0.071,58,0.094
+Shared room,price_per_guest vs bedrooms,37,-0.379,35,-0.377
+Shared room,price_gap_pct vs amenities_vs_peers,37,0.274,35,0.361
