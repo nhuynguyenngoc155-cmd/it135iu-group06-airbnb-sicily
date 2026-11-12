@@ -1,21 +1,28 @@
 # it135iu-group06-airbnb-sicily
 
-Data Science project - Airbnb Sicily
+Data Science Project - Airbnb Sicily
 
 ## Project Topic
 
-Which listings on a room-rental platform are overpriced for their area?
+**Which listings on a room-rental platform are overpriced for their area?**
+
+This project analyzes Airbnb listings in Sicily, Italy, to identify listings with potentially unusually high prices compared with similar listings in the same area.
 
 ## Dataset
 
-The project uses the Sicily Airbnb Listings Dataset and review data from Inside Airbnb.
+The project uses the Sicily Airbnb Listings Dataset from Inside Airbnb.
 
-### Files used
+### Files Used
 
-- `listings.csv` - detailed Airbnb listing information.
-- `reviews.csv` - review data used to create review summaries.
+- `Sicily.csv` - the input dataset used by the main analysis notebook.
 
-The data files are not included in this repository in accordance with Inside Airbnb's data policy.
+### Data Source
+
+- **Source:** Inside Airbnb
+- **Snapshot date:** July 1–2, 2026
+- **Download date:** September 27, 2026
+
+The dataset is not included in this repository in accordance with Inside Airbnb's data policy. Users must obtain the dataset from the original source.
 
 ## License and Data Policy
 
@@ -73,29 +80,42 @@ For other requests, commissioned data requests may be considered. These requests
 
 The main notebook is:
 
-`notebooks/D2_group06_notebook.ipynb`
+`notebooks/D3_Topic06_Triet_Huy_Doanh_Tan_Phuong_Nguyen_Thien.ipynb`
 
 The notebook includes the following main sections:
 
-1. Data source, loading and column selection
-2. Data profiling
-3. Data cleaning
-4. Data operations
-5. Data analysis
+1. Data loading and reconstruction of `df_clean`
+2. Filtering
+3. Group-by and aggregation
+4. Sensitivity analysis
+5. Expected price, price gap, and flag status
+6. Statistical relationship analysis
+7. Interpretation of results
+8. Saving summary tables
 
 The project also includes a data cleaning log:
 
 `cleaning_log.ipynb`
 
+## Project Structure
+
+```text
+it135iu-group06-airbnb-sicily/
+├── notebooks/
+│   └── D3_Topic06_Triet_Huy_Doanh_Tan_Phuong_Nguyen_Thien.ipynb
+├── data/
+│   └── raw/
+│       └── Sicily.csv
+├── outputs/
+│   └── tables/
+├── cleaning_log.ipynb
+├── requirements.txt
+└── README.md
+```
+
 ## Requirements
 
-The project uses the following Python libraries:
-
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- jupyter
+The project uses Python and the libraries listed in `requirements.txt`.
 
 To install the required libraries:
 
@@ -103,9 +123,36 @@ To install the required libraries:
 pip install -r requirements.txt
 ```
 
+## How to Run
+
+1. Clone or download the repository.
+2. Place `Sicily.csv` in the `data/raw/` directory.
+3. Install the required libraries:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Open the main notebook from the `notebooks/` directory.
+5. Run all cells from beginning to end.
+
+The notebook reads the input dataset from `data/raw/Sicily.csv` by default and saves generated summary tables to `outputs/tables/`.
+
+The notebook also checks the reconstructed dataset against the cleaning log. It stops if the expected number of rows, columns, or flag counts do not match.
+
 ## Reproducibility
 
-A random seed of 42 is used to make the results reproducible.
+A fixed random seed of 42 is used for reproducibility.
+
+The notebook includes validation checks to ensure that the reconstructed dataset matches the cleaning log.
+
+## Limitations
+
+The analysis uses a single data snapshot. Advertised prices may differ from the actual prices paid by guests. Listings with missing prices were excluded, which may introduce bias.
+
+The analysis identifies potentially unusually high-priced listings compared with similar listings. It does not prove that a listing is incorrectly priced.
+
+The results describe statistical associations and do not establish causal relationships.
 
 ## References
 
@@ -113,20 +160,3 @@ A random seed of 42 is used to make the results reproducible.
 - Inside Airbnb. (n.d.). Data Policies. https://insideairbnb.com/data-policies/
 - Inside Airbnb. (n.d.). Data Requests. https://insideairbnb.com/data-requests/
 - Creative Commons. (n.d.). Attribution 4.0 International (CC BY 4.0). https://creativecommons.org/licenses/by/4.0/
-
-
-Filtering, group-by, aggregation (Trần Duy Tân)
-Files
-notebooks/03_filtering_groupby_aggregation.ipynb   <- the deliverable (already executed, outputs visible on GitHub)
-outputs/tables/*.csv                                <- every result table (F0-F7 filters, G1-G7 group-by)
-data/raw/Sicily.csv                                 <- NOT committed (large); put your copy here to run the notebook
-​
-Run
-Put Sicily.csv in data/raw/.
-Open the notebook from the notebooks/ folder and choose Run All. It rebuilds df_clean from the raw file and stops if any number differs from the cleaning log (51,864 rows; flags 40 / 14 / 669).
-Tables are rewritten into outputs/tables/.
-Requires: python 3.10+, pandas, numpy.
-Suggested .gitignore
-data/raw/
-.ipynb_checkpoints/
-__pycache__/
