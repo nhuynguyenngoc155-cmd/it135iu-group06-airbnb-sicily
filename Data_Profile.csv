@@ -1,4 +1,4 @@
-﻿Data Profile – Sicily Airbnb listings (raw file Sicily.csv),,,s (Raw file listings.csv),listings.csv ),),,,,,,,
+﻿Data Profile – Sicily Airbnb listings (raw file listings.csv),,,,,,,,,,,,
 "One row per column of the raw file (90 columns, 56,873 rows). Missing % = Missing Count ÷ total rows (Summary!B4). Min/Max are shown for numeric and date columns; ""—"" means not applicable. Mean/Median and Most Frequent are static values computed with pandas.",,,,,,,,,,,,
 ,,,,,,,,,,,,
 Column,Data Type,Logical Type,Missing Count,Missing %,Unique Values,Min,Max,Mean,Median,Most Frequent Value (count),Used in Project,Notes
