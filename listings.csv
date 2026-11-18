@@ -1,0 +1,100 @@
+﻿Data Profile – Sicily Airbnb listings (raw file Sicily.csv),,,,,,,,,,,,
+"One row per column of the raw file (90 columns, 56,873 rows). Missing % = Missing Count ÷ total rows (Summary!B4). Min/Max are shown for numeric and date columns; ""—"" means not applicable. Mean/Median and Most Frequent are static values computed with pandas.",,,,,,,,,,,,
+,,,,,,,,,,,,
+Column,Data Type,Logical Type,Missing Count,Missing %,Unique Values,Min,Max,Mean,Median,Most Frequent Value (count),Used in Project,Notes
+id,int64,Identifier,0,0.0%,"56,873",7011,1719094868989988273,,,—,Yes,"Primary key. All 56,873 values are unique (no duplicate listings)."
+listing_url,object (text),URL,0,0.0%,"56,873",—,—,,,—,No,Link; not needed for analysis.
+scrape_id,int64,Identifier,0,0.0%,1,20260630203043,20260630203043,,,"20260630203043 (56,873)",No,Constant value for every row: carries no information.
+last_scraped,object (text),Date (stored as text),0,0.0%,2,2026-07-01,2026-07-02,,,"2026-07-02 (31,312)",No,2 scrape dates only.
+source,object (text),Category,0,0.0%,2,—,—,,,"city scrape (52,489)",No,
+name,object (text),Free text,0,0.0%,"54,619",—,—,,,Appartamento (16),No,
+description,object (text),Free text,"1,297",2.3%,"47,970",—,—,,,Relax with the whole family in this qu… (380),No,
+neighborhood_overview,float64,Empty (100% missing),"56,873",100.0%,0,—,—,,,—,No,Column is completely empty: no usable information.
+picture_url,object (text),URL,18,0.0%,"56,110",—,—,,,https://a0.muscache.com/pictures/11b0f… (10),No,Link; not needed for analysis.
+host_id,int64,Identifier,0,0.0%,"29,047",16888,1718922505592631218,,,163663206 (261),No,Host personal / identifying data; not needed for the project.
+host_url,object (text),URL,0,0.0%,"29,047",—,—,,,https://www.airbnb.com/users/show/1636… (261),No,Host personal / identifying data; not needed for the project.
+host_profile_id,int64,Identifier,0,0.0%,"29,047",1462506838956998124,1718923122560484499,,,1467872683076742628 (261),No,Host personal / identifying data; not needed for the project.
+host_profile_url,object (text),URL,0,0.0%,"29,047",—,—,,,https://www.airbnb.com/users/profile/1… (261),No,Host personal / identifying data; not needed for the project.
+host_name,object (text),Free text,0,0.0%,"5,677",—,—,,,"Giuseppe (1,801)",No,Host personal / identifying data; not needed for the project.
+host_since,float64,Empty (100% missing),"56,873",100.0%,0,—,—,,,—,No,Column is completely empty: no usable information.
+hosts_time_as_user_years,int64,Numeric (integer),0,0.0%,18,0,17,6.47,7,"10 (5,108)",No,
+hosts_time_as_user_months,int64,Numeric (integer),0,0.0%,12,0,11,5.24,5,"11 (6,748)",No,
+hosts_time_as_host_years,float64,Numeric (integer),1,0.0%,16,0,15,5.52,5,"2.0 (6,283)",No,
+hosts_time_as_host_months,float64,Numeric (integer),1,0.0%,12,0,11,4.98,4,"1.0 (7,311)",No,
+host_location,object (text),Free text,"20,663",36.3%,"1,336",—,—,,,"Palermo, Italy (5,991)",No,Host personal / identifying data; not needed for the project.
+host_about,object (text),Free text,"34,446",60.6%,"8,491",—,—,,,"At Holidu, we're on a mission to make … (1,357)",No,Host personal / identifying data; not needed for the project.
+host_response_time,float64,Empty (100% missing),"56,873",100.0%,0,—,—,,,—,No,Column is completely empty: no usable information.
+host_response_rate,float64,Empty (100% missing),"56,873",100.0%,0,—,—,,,—,No,Column is completely empty: no usable information.
+host_acceptance_rate,float64,Empty (100% missing),"56,873",100.0%,0,—,—,,,—,No,Column is completely empty: no usable information.
+host_is_superhost,object (text),Boolean (t/f as text),0,0.0%,2,—,—,,,"f (42,675)",No,Evaluative label about a host (t/f). Excluded: project does not profile hosts.
+host_thumbnail_url,float64,Empty (100% missing),"56,873",100.0%,0,—,—,,,—,No,Column is completely empty: no usable information.
+host_picture_url,object (text),URL,0,0.0%,"24,919",—,—,,,https://a0.muscache.com/im/pictures/us… (261),No,Host personal / identifying data; not needed for the project.
+host_neighbourhood,float64,Empty (100% missing),"56,873",100.0%,0,—,—,,,—,No,Column is completely empty: no usable information.
+host_listings_count,int64,Numeric (integer),0,0.0%,254,1,"6,243",47.17,3,"1 (18,020)",No,
+host_total_listings_count,float64,Empty (100% missing),"56,873",100.0%,0,—,—,,,—,No,Column is completely empty: no usable information.
+host_verifications,float64,Empty (100% missing),"56,873",100.0%,0,—,—,,,—,No,Column is completely empty: no usable information.
+host_has_profile_pic,object (text),Boolean (t/f as text),0,0.0%,2,—,—,,,"t (50,995)",No,Values t / f stored as text.
+host_identity_verified,object (text),Boolean (t/f as text),0,0.0%,2,—,—,,,"t (56,192)",No,Values t / f stored as text.
+neighbourhood,float64,Empty (100% missing),"56,873",100.0%,0,—,—,,,—,No,Column is completely empty: no usable information.
+neighbourhood_cleansed,object (text),Category,0,0.0%,372,—,—,,,"Palermo (7,810)",Yes,"372 areas. Name ""Cefal"" is truncated in the source file (probably Cefalù)."
+neighbourhood_group_cleansed,float64,Empty (100% missing),"56,873",100.0%,0,—,—,,,—,No,Column is completely empty: no usable information.
+latitude,float64,Numeric (decimal),0,0.0%,"46,845",35.49,38.81,37.65,37.81,37.8674177 (23),Yes,Range 35.49 to 38.81; consistent with Sicily and its islands (Lampedusa ≈ 35.5).
+longitude,float64,Numeric (decimal),0,0.0%,"47,509",11.93,15.65,14.14,14.52,12.5196222 (23),Yes,Range 11.93 to 15.65; consistent with Sicily and its islands.
+property_type,object (text),Category,0,0.0%,99,—,—,,,"Entire rental unit (18,564)",Yes,99 values; top 10 cover most listings.
+room_type,object (text),Category,0,0.0%,4,—,—,,,"Entire home/apt (45,363)",Yes,"4 values: Entire home/apt, Private room, Hotel room, Shared room."
+accommodates,int64,Numeric (integer),0,0.0%,16,1,16,4.36,4,"4 (17,838)",Yes,Number of guests. Used to compute price per guest = price / accommodates.
+bathrooms,float64,Numeric (decimal),"8,847",15.6%,29,0.50,19,1.43,1,"1.0 (33,840)",No,"Numeric version already in the file but has far more gaps (8,847) than bathrooms_text (63)."
+bathrooms_text,object (text),Category,63,0.1%,50,—,—,,,"1 bath (30,996)",Yes,"Text such as ""1 shared bath"". 168 values have no number (""Half-bath"", ""Shared half-bath""...)."
+bedrooms,float64,Numeric (integer),"8,513",15.0%,22,0,22,1.87,2,"1.0 (22,367)",Yes,15.0% missing; cannot be inferred from other columns.
+beds,float64,Numeric (integer),"6,829",12.0%,29,1,30,2.76,2,"2.0 (14,637)",No,12.0% missing.
+amenities,object (text),List (stored as text),0,0.0%,"52,166",—,—,,,—,Yes,List stored as one text string (JSON-like); needs json.loads to count items. No missing values; 49 are empty lists (44 after dropping rows without a price).
+price,object (text),Currency (stored as text),"5,009",8.8%,"11,872",2.02,"88,494.55",193.84,126,$80.00 (427),Yes,"Stored as TEXT with $ and commas (e.g. ""$1,250.00""); must be converted to a number. Min/Max shown after parsing. Extremes: max 88,494.55, min 2.02."
+price_quote_checkin_date,object (text),Date (stored as text),"2,612",4.6%,312,2026-07-01,2027-07-01,,,"2026-07-02 (10,881)",No,Date stored as text; parse with pd.to_datetime if needed.
+price_quote_checkout_date,object (text),Date (stored as text),"2,612",4.6%,331,2026-07-02,2027-07-02,,,"2026-07-03 (5,528)",No,Date stored as text; parse with pd.to_datetime if needed.
+price_quote_total_price,float64,Numeric (decimal),"5,010",8.8%,"11,581",13,"2,743,331","1,070.30",321,160.0 (258),No,
+price_quote_price_per_night,float64,Numeric (decimal),"5,010",8.8%,"11,872",2.02,"88,494.55",193.85,126,80.0 (427),No,Quote for one sample stay; has 1 more missing value than price.
+price_quote_raw,object (text),JSON (stored as text),"2,612",4.6%,"45,131",—,—,,,—,No,Raw JSON of a price quote; not needed for the price comparison.
+minimum_nights,float64,Numeric (integer),1,0.0%,58,1,"1,124",6.35,2,"1.0 (23,976)",Yes,"4 listings above 365 nights (long stays, not short-term rentals). 1 value missing."
+maximum_nights,float64,Numeric (integer),1,0.0%,183,1,"3,000",560.13,365,"1125.0 (20,765)",No,
+minimum_minimum_nights,float64,Numeric (integer),1,0.0%,58,1,"1,124",6.35,2,"1.0 (23,976)",No,
+maximum_minimum_nights,float64,Numeric (integer),1,0.0%,68,1,"1,124",7.58,3,"2.0 (12,649)",No,
+minimum_maximum_nights,float64,Numeric (integer),1,0.0%,181,1,"3,000",492.24,365,"1125.0 (18,182)",No,
+maximum_maximum_nights,float64,Numeric (integer),1,0.0%,183,1,"3,000",560.13,365,"1125.0 (20,765)",No,
+minimum_nights_avg_ntm,float64,Numeric (decimal),0,0.0%,285,1,"1,124",6.84,2,"1.0 (12,432)",No,
+maximum_nights_avg_ntm,float64,Numeric (decimal),0,0.0%,"3,355",1,"3,000",527.91,365,"1125.0 (18,182)",No,
+calendar_updated,float64,Empty (100% missing),"56,873",100.0%,0,—,—,,,—,No,Column is completely empty: no usable information.
+has_availability,object (text),Boolean (t/f as text),111,0.2%,2,—,—,,,"t (53,609)",No,Values t / f stored as text.
+availability_30,int64,Numeric (integer),0,0.0%,31,0,30,14.25,12,"0 (7,796)",No,
+availability_60,int64,Numeric (integer),0,0.0%,61,0,60,28.49,25,"0 (5,704)",No,
+availability_90,int64,Numeric (integer),0,0.0%,91,0,90,49.07,48,"0 (4,274)",No,
+availability_365,int64,Numeric (integer),0,0.0%,366,0,365,231.57,269,"365 (2,990)",No,
+calendar_last_scraped,object (text),Date (stored as text),0,0.0%,2,2026-07-01,2026-07-02,,,"2026-07-02 (31,309)",No,Date stored as text; parse with pd.to_datetime if needed.
+number_of_reviews,int64,Numeric (integer),0,0.0%,508,0,919,22.88,3,"0 (16,501)",Yes,"16,501 listings (29.0%) have 0 reviews."
+number_of_reviews_ltm,int64,Numeric (integer),0,0.0%,115,0,172,4.80,1,"0 (28,036)",No,
+number_of_reviews_l30d,int64,Numeric (integer),0,0.0%,19,0,24,0.54,0,"0 (42,792)",No,
+availability_eoy,int64,Numeric (integer),0,0.0%,185,0,184,118.94,129,"183 (3,687)",No,
+number_of_reviews_ly,int64,Numeric (integer),0,0.0%,113,0,179,4.59,0,"0 (30,378)",No,
+estimated_occupancy_l365d,int64,Numeric (integer),0,0.0%,87,0,255,28.70,6,"0 (28,036)",No,
+estimated_revenue_l365d,float64,Numeric (integer),"5,009",8.8%,"9,926",0,"2,327,770","4,951.75",602,"0.0 (24,340)",No,"Missing for the same 5,009 listings that have no price."
+first_review,object (text),Date (stored as text),"16,501",29.0%,"4,118",2009-08-26,2026-07-02,,,2025-08-16 (113),No,Date stored as text; parse with pd.to_datetime if needed.
+last_review,object (text),Date (stored as text),"16,501",29.0%,"2,286",2012-05-09,2026-07-02,,,2026-06-27 (832),No,Date stored as text; parse with pd.to_datetime if needed.
+review_scores_rating,float64,Numeric (decimal),"16,501",29.0%,143,0,5,4.75,4.88,"5.0 (13,413)",Yes,"Missing exactly where the listing has no reviews (16,501 listings with number_of_reviews = 0). 2 listings have an invalid rating of 0.0 (ids 1084850, 1322855); scale is 1–5."
+review_scores_accuracy,float64,Numeric (decimal),"16,506",29.0%,146,0,5,4.77,4.90,"5.0 (13,908)",No,
+review_scores_cleanliness,float64,Numeric (decimal),"16,505",29.0%,161,0,5,4.79,4.92,"5.0 (15,756)",No,
+review_scores_checkin,float64,Numeric (decimal),"16,510",29.0%,131,0,5,4.84,4.95,"5.0 (17,076)",No,
+review_scores_communication,float64,Numeric (decimal),"16,508",29.0%,146,0,5,4.85,4.97,"5.0 (18,697)",No,
+review_scores_location,float64,Numeric (decimal),"16,508",29.0%,167,0,5,4.72,4.83,"5.0 (11,810)",No,
+review_scores_value,float64,Numeric (decimal),"16,510",29.0%,156,0,5,4.69,4.81,"5.0 (10,724)",No,
+license,object (text),Free text,"11,072",19.5%,"32,177",—,—,,,"I applied for a CIN, but haven’t recei… (816)",No,
+instant_bookable,float64,Empty (100% missing),"56,873",100.0%,0,—,—,,,—,No,Column is completely empty: no usable information.
+calculated_host_listings_count,int64,Numeric (integer),0,0.0%,74,1,261,12.31,2,"1 (19,439)",No,
+calculated_host_listings_count_entire_homes,int64,Numeric (integer),0,0.0%,73,0,256,10.60,2,"1 (21,057)",No,
+calculated_host_listings_count_private_rooms,int64,Numeric (integer),0,0.0%,26,0,47,1.68,0,"0 (39,916)",No,
+calculated_host_listings_count_shared_rooms,int64,Numeric (integer),0,0.0%,7,0,19,0.02,0,"0 (56,651)",No,
+reviews_per_month,float64,Numeric (decimal),"16,501",29.0%,692,0.01,11.16,0.72,0.33,"0.04 (1,438)",No,
+,,,,,,,,,,,,
+Legend,,,,,,,,,,,,
+Missing % ≥ 50%,,,,,,,,,,,,
+Missing % 10%–50%,,,,,,,,,,,,
+Used in Project = Yes,,,,,,,,,,,,
+Used in Project = the 14 columns kept in the cleaning log (column selection).,,,,,,,,,,,,
