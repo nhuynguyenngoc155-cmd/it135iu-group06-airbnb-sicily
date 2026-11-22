@@ -14,15 +14,29 @@ The project uses the Sicily Airbnb Listings Dataset from Inside Airbnb.
 
 ### Files Used
 
-- `Sicily.csv` - the input dataset used by the main analysis notebook.
+The notebook uses two data files from Inside Airbnb. They are **not** included in this repository.
+
+- `listings.csv` - the Detailed Listings file (90 columns, 56,873 listings). The notebook reads only the 14 columns needed for the price comparison.
+- `reviews.csv` - the reviews file (one row per review, with `listing_id` and `date` only). It is used to add the number of reviews and the first and latest review date to each listing.
+
+The notebook also reads three supporting files that are included in this repository:
+
+- `Data_Profile.csv` - profile of the 90 original columns, displayed in the data profile section.
+- `groups_below_thresholds.csv` - table used for Chart 1.
+- `descriptive_price_distribution.csv` - table used for Chart 3.
 
 ### Data Source
 
 - **Source:** Inside Airbnb
-- **Snapshot date:** July 1–2, 2026
+- **Snapshot date:** July 1-2, 2026
 - **Download date:** September 27, 2026
 
 The dataset is not included in this repository in accordance with Inside Airbnb's data policy. Users must obtain the dataset from the original source.
+
+To download the data, go to https://insideairbnb.com/get-the-data/, find Sicily, and download:
+
+1. **Detailed Listings** (`listings.csv.gz`). Unzip it to get `listings.csv`. Do not use the summary listings file: it has only about 19 columns and lacks columns the notebook needs, such as `amenities`, `bedrooms` and `bathrooms_text`.
+2. **Reviews** (`reviews.csv`).
 
 ## License and Data Policy
 
@@ -82,20 +96,35 @@ The main notebook is:
 
 `notebooks/D3_Topic06_Triet_Huy_Doanh_Tan_Phuong_Nguyen_Thien.ipynb`
 
-The notebook includes the following main sections:
+It contains the D2 part first and the D3 part after it, in one file.
 
-1. Data loading and reconstruction of `df_clean`
-2. Filtering
-3. Group-by and aggregation
-4. Sensitivity analysis
-5. Expected price, price gap, and flag status
-6. Statistical relationship analysis
-7. Interpretation of results
-8. Saving summary tables
+**D2 part:**
 
-The project also includes a data cleaning log:
+1. Data source, loading and column selection
+2. Merging the review table
+3. Data profile
+4. Data cleaning log
+5. Loading data and rebuilding `df_clean`
+6. Filtering
+7. Group-by and aggregation
+8. Sensitivity check
+9. Key takeaways
+10. Saving outputs
 
-`cleaning_log.ipynb`
+**D3 part:**
+
+1. Decision question, user and success criteria
+2. Loading `df_clean`
+3. Descriptive statistics by area and room type
+4. Expected price, price gap and flag status
+5. Statistical relationship analysis
+6. Charts
+7. Licence, attribution and AI use
+8. Session information
+
+### Data Cleaning Log
+
+The data cleaning log (column selection and 14 cleaning steps) is part of the notebook, in the D2 part, in the section **Data Cleaning Log**. There is no separate cleaning log notebook.
 
 ## Project Structure
 
@@ -103,15 +132,17 @@ The project also includes a data cleaning log:
 it135iu-group06-airbnb-sicily/
 ├── notebooks/
 │   └── D3_Topic06_Triet_Huy_Doanh_Tan_Phuong_Nguyen_Thien.ipynb
-├── data/
-│   └── raw/
-│       └── Sicily.csv
-├── outputs/
-│   └── tables/
-├── cleaning_log.ipynb
+├── Output_tables/                          # summary tables
+├── Data_Profile.csv                        # read by the notebook
+├── groups_below_thresholds.csv             # read by the notebook (Chart 1)
+├── descriptive_price_distribution.csv      # read by the notebook (Chart 3)
+├── listings.csv                            # NOT in the repository: download from Inside Airbnb
+├── reviews.csv                             # NOT in the repository: download from Inside Airbnb
 ├── requirements.txt
 └── README.md
 ```
+
+`listings.csv` and `reviews.csv` appear in the tree only to show where to place them after downloading. They are not stored on GitHub.
 
 ## Requirements
 
@@ -126,7 +157,7 @@ pip install -r requirements.txt
 ## How to Run
 
 1. Clone or download the repository.
-2. Place `Sicily.csv` in the `data/raw/` directory.
+2. Download `listings.csv` and `reviews.csv` from Inside Airbnb (see Data Source) and place both files in the root folder of the repository, next to `Data_Profile.csv`.
 3. Install the required libraries:
 
    ```bash
@@ -134,15 +165,21 @@ pip install -r requirements.txt
    ```
 
 4. Open the main notebook from the `notebooks/` directory.
-5. Run all cells from beginning to end.
+5. Run all cells from beginning to end (Restart & Run All).
 
-The notebook reads the input dataset from `data/raw/Sicily.csv` by default and saves generated summary tables to `outputs/tables/`.
+The notebook looks for `listings.csv` and `reviews.csv` in its working folder first and then one folder above it. To use another location, set the environment variable `PROJECT_ROOT`, or `LISTINGS_CSV` and `REVIEWS_CSV`. The first cell prints the paths it found. If it shows `exists: False`, the files are in the wrong place.
+
+The chart cells read `groups_below_thresholds.csv` and `descriptive_price_distribution.csv` and write to `outputs/` relative to the folder the notebook is run from. Run the notebook with the repository root as the working folder (in VS Code, set `jupyter.notebookFileRoot` to `${workspaceFolder}`), or keep the notebook and the CSV files in the same folder.
+
+The notebook saves generated files to `outputs/` (created automatically and not committed): summary tables in `outputs/tables/`, the table with one row per listing in `outputs/local/`, and the charts in `outputs/images/`.
 
 The notebook also checks the reconstructed dataset against the cleaning log. It stops if the expected number of rows, columns, or flag counts do not match.
 
 ## Reproducibility
 
-A fixed random seed of 42 is used for reproducibility.
+A random seed is not used. The notebook has no random sampling, train/test split or model fitting, so the results are the same on every run. The last cell of the notebook prints the library versions.
+
+The notebook was run with Python 3.13.7, pandas 3.1.0, numpy 2.5.4 and matplotlib 3.11.2.
 
 The notebook includes validation checks to ensure that the reconstructed dataset matches the cleaning log.
 
